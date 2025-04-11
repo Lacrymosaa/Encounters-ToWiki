@@ -1,0 +1,2476 @@
+{| class="sortable fandom-table" style="text-align: center;" 
+! # !! style="width:250px; white-space: nowrap;"| Pokémon 
+! Location
+|-
+| 1 || [[File:Bulbasaur.png|50px]] [[Bulbasaur]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Forest of Time (5%)
+|-
+| 2 || [[File:Ivysaur.png|50x50px]][[Ivysaur]] ||  Floral Pass (5%)
+|-
+| 3 || [[File:Venusaur.png|50x50px]] [[Venusaur]] ||  Not available in the wild
+|-
+| 4 || [[File:Charmander.png|50px]] [[Charmander]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 5 || [[File:Charmeleon.png|50px]] [[Charmeleon]] ||  Floral Pass (5%)
+|-
+| 6 || [[File:Charizard.png|50px]] [[Charizard]] ||  Not available in the wild
+|-
+| 7 || [[File:Squirtle.png|50px]] [[Squirtle]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Retire Park (30%), Floral Pass (30%), [[Player's Farm]] (20%)
+|-
+| 8 || [[File:Wartortle.png|50px]] [[Wartortle]] ||  Floral Pass (30%)
+|-
+| 9 || [[File:Blastoise.png|50px]] [[Blastoise]] ||  Not available in the wild
+|-
+| 10 || [[File:Caterpie.png|50px]] [[Caterpie]] ||  Not available in the wild
+|-
+| 11 || [[File:Metapod.png|50px]] [[Metapod]] ||  Greenfinch Forest (5%)
+|-
+| 12 || [[File:Butterfree.png|50px]] [[Butterfree]] ||  Forest of Time (5%)
+|-
+| 13 || [[File:Weedle.png|50px]] [[Weedle]] ||  Greenfinch Forest (5%)
+|-
+| 14 || [[File:Kakuna.png|50px]] [[Kakuna]] ||  Not available in the wild
+|-
+| 15 || [[File:Beedrill.png|50px]] [[Beedrill]] ||  Forest of Time (5%)
+|-
+| 16 || [[File:Pidgey.png|50px]] [[Pidgey]] ||  Route 8 (10%), Garden of Dreams (5%) 
+|-
+| 17 || [[File:Pidgeotto.png|50px]] [[Pidgeotto]] ||  Not available in the wild
+|-
+| 18 || [[File:Pidgeot.png|50px]] [[Pidgeot]] ||  Floral Pass (10%)
+|-
+| 19 || [[File:Rattata.png|50px]] [[Rattata]] ||  Not available in the wild
+|-
+| 19 || [[File:Alolan Rattata.png|50px]] [[Alolan Rattata]] ||  Route 1 (10%), Route 2 (10%)
+|-
+| 20 || [[File:Raticate.png|50px]] [[Raticate]] ||  Not available in the wild
+|-
+| 20 || [[File:Alolan Raticate.png|50px]] [[Alolan Raticate]] ||  Lugano City Sewers (10%)
+|-
+| 21 || [[File:Spearow.png|50px]] [[Spearow]] ||  Not available in the wild
+|-
+| 22 || [[File:Fearow.png|50px]] [[Fearow]] ||  Route 11 (10%)
+|-
+| 23 || [[File:Ekans.png|50px]] [[Ekans]] ||  Not available in the wild
+|-
+| 24 || [[File:Arbok.png|50px]] [[Arbok]] ||  Lugano City Sewers (10%)
+|-
+| 25 || [[File:Pikachu.png|50px]] [[Pikachu]] || [[Gacha]]
+Route 3 (10%)
+|-
+| 26 || [[File:Raichu.png|50px]] [[Raichu]] ||  Route 17 (5%)
+|-
+| 26 || [[File:Alolan Raichu.png|50px]] [[Alolan Raichu]] ||  Route 11 (10%), Southern Island 2 (10%)
+|-
+| 27 || [[File:Sandshrew.png|50px]] [[Sandshrew]] ||  Not available in the wild
+|-
+| 27 || [[File:Alolan Sandshrew.png|50px]] [[Alolan Sandshrew]] ||  Not available in the wild
+|-
+| 28 || [[File:Sandslash.png|50px]] [[Sandslash]] ||  Not available in the wild
+|-
+| 28 || [[File:Alolan Sandslash.png|50px]] [[Alolan Sandslash]] ||  Not available in the wild
+|-
+| 29 || [[File:NidoranF.png|50x50px]] [[Nidoran♀]] ||  Route 5 (10%)
+|-
+| 30 || [[File:Nidorina.png|50px]] [[Nidorina]] ||  Forest of Time (5%), Route 14 (10%)
+|-
+| 31 || [[File:Nidoqueen.png|50px]] [[Nidoqueen]] ||  Lost Forest (10%)
+|-
+| 32 || [[File:NidoranM.png|50x50px]] [[Nidoran♂]] ||  Route 5 (10%)
+|-
+| 33 || [[File:Nidorino.png|50px]] [[Nidorino]] ||  Forest of Time (5%), Route 14 (10%)
+|-
+| 34 || [[File:Nidoking.png|50px]] [[Nidoking]] ||  Lost Forest (10%)
+|-
+| 35 || [[File:Clefairy.png|50px]] [[Clefairy]] || [[Gacha]]
+Not available in the wild
+|-
+| 36 || [[File:Clefable.png|50px]] [[Clefable]] ||  Not available in the wild
+|-
+| 37 || [[File:Vulpix.png|50px]] [[Vulpix]] ||  Route 3 (20%)
+|-
+| 37 || [[File:Alolan Vulpix.png|50px]] [[Alolan Vulpix]] || [[Gacha]]
+Not available in the wild
+[[Gift Pokemon Locations|Lugano North (Gift)]]
+|-
+| 38 || [[File:Ninetales.png|50px]] [[Ninetales]] ||  Route 16 (10%), Route 19 (10%), Cemetery (20%)
+|-
+| 38 || [[File:Alolan Ninetales.png|50px]] [[Alolan Ninetales]] ||  Not available in the wild
+|-
+| 39 || [[File:Jigglypuff.png|50px]] [[Jigglypuff]] ||  Route 12 (10%)
+|-
+| 40 || [[File:Wigglytuff.png|50px]] [[Wigglytuff]] ||  Royal Palace Garden (10%)
+|-
+| 41 || [[File:Zubat.png|50px]] [[Zubat]] ||  Mysterious Cave (10%), Finch Cave (20%), Relic Cave (Floor -1) (50%), Relic Cave (Floor 1) (50%), Relic Cave (Floor 2) (50%)
+|-
+| 42 || [[File:Golbat.png|50x50px]] [[Golbat]] ||  Mystic Cave (10%), Magnetic Cave (10%)
+|-
+| 43 || [[File:Oddish.png|50px]] [[Oddish]] ||  Route 2 (10%)
+|-
+| 44 || [[File:Gloom.png|50px]] [[Gloom]] ||  Route 11 (10%)
+|-
+| 45 || [[File:Vileplume.png|50px]] [[Vileplume]] ||  Not available in the wild
+|-
+| 46 || [[File:Paras.png|50px]] [[Paras]] ||  Greenfinch Forest (5%)
+|-
+| 47 || [[File:Parasect.png|50px]] [[Parasect]] ||  Quack Path (10%)
+|-
+| 48 || [[File:Venonat.png|50px]] [[Venonat]] ||  Greenfinch Forest (5%)
+|-
+| 49 || [[File:Venomoth.png|50px]] [[Venomoth]] ||  Route 18 (10%)
+|-
+| 50 || [[File:Diglett.png|50px]] [[Diglett]] ||  Mysterious Cave (10%), Relic Cave (Floor -1) (10%), Relic Cave (Floor -2) (10%), Relic Cave (Floor 0) (10%), Relic Cave (Floor 1) (10%), Relic Cave (Floor 2) (10%)
+|-
+| 50 || [[File:Alolan Diglett.png|50px]] [[Alolan Diglett]] ||  Not available in the wild
+|-
+| 51 || [[File:Dugtrio.png|50px]] [[Dugtrio]] ||  Not available in the wild
+|-
+| 51 || [[File:Alolan Dugtrio.png|50px]] [[Alolan Dugtrio]] ||  Talegalo Cave (10%)
+|-
+| 52 || [[File:Meowth.png|50px]] [[Meowth]] ||  Akebia Prison (Floor -2) (20%), Route 5 (10%)
+|-
+| 52 || [[File:Alolan Meowth.png|50px]] [[Alolan Meowth]] ||  Not available in the wild
+|-
+| 52 || [[File:Galarian Meowth.png|50px]] [[Galarian Meowth]] ||  Not available in the wild
+|-
+| 53 || [[File:Persian.png|50px]] [[Persian]] ||  Not available in the wild
+|-
+| 53 || [[File:Alolan Persian.png|50px]] [[Alolan Persian]] ||  Quack Path (10%)
+|-
+| 54 || [[File:Psyduck.png|50px]] [[Psyduck]] ||  [[Player's Farm]] (10%), Route 11 (20%), Route 4 (15%), Route 5 (25%)
+|-
+| 55 || [[File:Golduck.png|50px]] [[Golduck]] ||  Route 21 (30%), Route 21 (pt. 2) (30%)
+|-
+| 56 || [[File:Mankey.png|50px]] [[Mankey]] || [[Gacha]]
+Route 7 (10%)
+|-
+| 57 || [[File:Primeape.png|50px]] [[Primeape]] ||  Not available in the wild
+|-
+| 58 || [[File:Growlithe.png|50px]] [[Growlithe]] ||  Route 10 (10%), Route 9 (10%)
+|-
+| 58 || [[File:Hisuian Growlithe.png|50px]] [[Hisuian Growlithe]] || [[Gacha]]
+Not available in the wild
+|-
+| 59 || [[File:Arcanine.png|50px]] [[Arcanine]] ||  Route 20 (10%)
+|-
+| 59 || [[File:Hisuian Arcanine.png|50px]] [[Hisuian Arcanine]] ||  Not available in the wild
+|-
+| 60 || [[File:Poliwag.png|50px]] [[Poliwag]] || [[Gacha]]
+Forest of Time (20%), Forbe City (20%), Algorithm Cave (50%), Mystic Cave (20%), Garden of Dreams (20%), [[Player's Farm]] (10%), Nightingale Town (20%), Route 10 (20%), Route 11 (20%), Route 12 (20%), Route 13 (20%), Route 14 (20%), Route 15 (20%), Route 4 (25%), Route 5 (25%), Route 9 (20%), Sanctuary of Music (20%)
+|-
+| 61 || [[File:Poliwhirl.png|50px]] [[Poliwhirl]] ||  Magnetic Cave (20%)
+|-
+| 62 || [[File:Poliwrath.png|50px]] [[Poliwrath]] ||  Forbe City (20%), Talegalo Cave (20%)
+|-
+| 63 || [[File:Abra.png|50px]] [[Abra]] || [[Gacha]]
+Route 8 (10%)
+|-
+| 64 || [[File:Kadabra.png|50px]] [[Kadabra]] ||  Route 11 (5%), Route 14 (10%)
+|-
+| 65 || [[File:Alakazam.png|50px]] [[Alakazam]] ||  Not available in the wild
+|-
+| 66 || [[File:Machop.png|50px]] [[Machop]] || [[Gacha]]
+Finch Cave (10%), Relic Cave (Floor -1) (10%), Relic Cave (Floor -2) (10%), Relic Cave (Floor 0) (10%), Relic Cave (Floor 1) (10%), Relic Cave (Floor 2) (10%), Route 4 (10%)
+|-
+| 67 || [[File:Machoke.png|50px]] [[Machoke]] ||  Mystic Cave (10%)
+|-
+| 68 || [[File:Machamp.png|50px]] [[Machamp]] ||  Not available in the wild
+|-
+| 69 || [[File:Bellsprout.png|50px]] [[Bellsprout]] || [[Gacha]]
+Route 1 (10%)
+|-
+| 70 || [[File:Weepinbell.png|50px]] [[Weepinbell]] ||  Route 11 (5%)
+|-
+| 71 || [[File:Victreebel.png|50px]] [[Victreebel]] ||  Not available in the wild
+|-
+| 72 || [[File:Tentacool.png|50px]] [[Tentacool]] ||  Nymph City (20%), Route 8 (25%)
+|-
+| 73 || [[File:Tentacruel.png|50px]] [[Tentacruel]] ||  Not available in the wild
+|-
+| 74 || [[File:Geodude.png|50px]] [[Geodude]] ||  Finch Cave (20%), Relic Cave (Floor -1) (10%), Relic Cave (Floor -2) (10%), Relic Cave (Floor 0) (10%), Relic Cave (Floor 1) (10%), Relic Cave (Floor 2) (10%)
+|-
+| 74 || [[File:Alolan Geodude.png|50px]] [[Alolan Geodude]] || [[Gacha]]
+Not available in the wild
+|-
+| 75 || [[File:Graveler.png|50px]] [[Graveler]] ||  Not available in the wild
+|-
+| 75 || [[File:Alolan Graveler.png|50px]] [[Alolan Graveler]] ||  Mystic Cave (10%)
+|-
+| 76 || [[File:Golem.png|50px]] [[Golem]] ||  Not available in the wild
+|-
+| 76 || [[File:Alolan Golem.png|50px]] [[Alolan Golem]] ||  Not available in the wild
+|-
+| 77 || [[File:Ponyta.png|50px]] [[Ponyta]] ||  Route 8 (10%)
+|-
+| 77 || [[File:Galarian Ponyta.png|50px]] [[Galarian Ponyta]] || [[Gacha]]
+Sanctuary of Music (15%), Route 13 (10%)
+|-
+| 78 || [[File:Rapidash.png|50px]] [[Rapidash]] ||  Route 21 (10%), Route 21 (pt 2) (10%)
+|-
+| 78 || [[File:Galarian Rapidash.png|50px]] [[Galarian Rapidash]] ||  Quack Path (10%)
+|-
+| 79 || [[File:Slowpoke.png|50px]] [[Slowpoke]] ||  Nymph City (20%), Toucan Town (10%), Toucan Town (20%), Route 11 (20%), Route 9 (10%)
+|-
+| 79 || [[File:Galarian Slowpoke.png|50px]] [[Galarian Slowpoke]] || [[Gacha]]
+Not available in the wild
+|-
+| 80 || [[File:Slowbro.png|50px]] [[Slowbro]] ||  Squawk Cave (70%), Quack Path (30%)
+|-
+| 80 || [[File:Galarian Slowbro.png|50px]] [[Galarian Slowbro]] ||  Quack Path (30%)
+|-
+| 81 || [[File:Magnemite.png|50px]] [[Magnemite]] || [[Gacha]]
+Lugano City (Center) (10%)
+|-
+| 82 || [[File:Magneton.png|50px]] [[Magneton]] ||  Magnetic Cave (10%), Dr. Vega's Laboratory (10%)
+|-
+| 83 || [[File:Farfetchd.png|50px]] [[Farfetch'd]] ||  Not available in the wild
+|-
+|83
+|[[File:Farfetchd 1.png|50x50px]] Galarian Farfetch'd || [[Gacha]]
+Route 12 (5%)
+|-
+| 84 || [[File:Doduo.png|50px]] [[Doduo]] ||  Route 8 (10%)
+|-
+| 85 || [[File:Dodrio.png|50px]] [[Dodrio]] ||  Route 11 (5%), Route 18 (10%)
+|-
+| 86 || [[File:Seel.png|50px]] [[Seel]] ||  Not available in the wild
+|-
+| 87 || [[File:Dewgong.png|50px]] [[Dewgong]] ||  Not available in the wild
+|-
+| 88 || [[File:Grimer.png|50px]] [[Grimer]] ||  Not available in the wild
+|-
+| 88 || [[File:Alolan Grimer.png|50px]] [[Alolan Grimer]] || [[Gacha]]
+Not available in the wild
+|-
+| 89 || [[File:Muk.png|50px]] [[Muk]] ||  Not available in the wild
+|-
+| 89 || [[File:Alolan Muk.png|50px]] [[Alolan Muk]] ||  Lugano City Sewers (5%)
+|-
+| 90 || [[File:Shellder.png|50px]] [[Shellder]] ||  Nymph City (40%)
+|-
+| 91 || [[File:Cloyster.png|50px]] [[Cloyster]] ||  Southern Island (20%), Southern Island 2 (20%)
+|-
+| 92 || [[File:Gastly.png|50px]] [[Gastly]] || [[Gacha]]
+Forest of Memories (10%), Akebia Prison (Floor -2) (10%)
+|-
+| 93 || [[File:Haunter.png|50px]] [[Haunter]] ||  Not available in the wild
+|-
+| 94 || [[File:Gengar.png|50px]] [[Gengar]] ||  Not available in the wild
+|-
+| 95 || [[File:Onix.png|50px]] [[Onix]] ||  Mystic Cave (10%), Mysterious Cave (10%), Finch Cave (5%), Relic Cave (Floor -1) (5%), Relic Cave (Floor -2) (5%), Relic Cave (Floor 0) (5%), Relic Cave (Floor 1) (5%), Relic Cave (Floor 2) (5%)
+|-
+| 96 || [[File:Drowzee.png|50px]] [[Drowzee]] ||  Not available in the wild
+|-
+| 97 || [[File:Hypno.png|50px]] [[Hypno]] ||  Route 19 (10%)
+|-
+| 98 || [[File:Krabby.png|50px]] [[Krabby]] ||  Nymph City (15%), Toucan Town (15%)
+|-
+| 99 || [[File:Kingler.png|50px]] [[Kingler]] ||  Squawk Cave (20%), Squawk Cave (30%), Route 20 (20%), Route 20 (30%), Route 20 (70%), Quack Path (20%), Quack Path (30%), Quack Path (70%)
+|-
+| 100 || [[File:Voltorb.png|50px]] [[Voltorb]] ||  Not available in the wild
+|-
+| 101 || [[File:Electrode.png|50px]] [[Electrode]] ||  Dr. Vega's Laboratory (10%)
+|-
+| 102 || [[File:Exeggcute.png|50px]] [[Exeggcute]] ||  Route 3 (10%), Route 11 (5%)
+|-
+| 103 || [[File:Exeggutor.png|50px]] [[Exeggutor]] ||  Not available in the wild
+|-
+| 103 || [[File:Alolan Exeggutor.png|50px]] [[Alolan Exeggutor]] ||  Not available in the wild
+|-
+| 104 || [[File:Cubone.png|50px]] [[Cubone]] ||  [[Gacha]] (evolves into Alolan Marowak)
+Mysterious Cave (10%)
+|-
+| 105 || [[File:Marowak.png|50px]] [[Marowak]] ||  Not available in the wild
+|-
+| 105 || [[File:Alolan Marowak.png|50px]] [[Alolan Marowak]] ||  Not available in the wild
+|-
+| 106 || [[File:Hitmonlee.png|50px]] [[Hitmonlee]] || [[Gacha]]
+Not available in the wild
+|-
+| 107 || [[File:Hitmonchan.png|50px]] [[Hitmonchan]] || [[Gacha]]
+Not available in the wild
+|-
+| 108 || [[File:Lickitung.png|50px]] [[Lickitung]] || [[Gacha]]
+Garden of Dreams (5%), Route 12 (5%)
+|-
+| 109 || [[File:Koffing.png|50px]] [[Koffing]] ||  Route 15 (10%)
+|-
+| 110 || [[File:Weezing.png|50px]] [[Weezing]] ||  Lugano City Sewers (10%)
+|-
+| 110 || [[File:Galarian Weezing.png|50px]] [[Galarian Weezing]] ||  Lugano City Sewers (10%)
+|-
+| 111 || [[File:Rhyhorn.png|50px]] [[Rhyhorn]] || [[Gacha]]
+Mystic Cave (10%), Mysterious Cave (10%), Mysterious Cave (20%)
+|-
+| 112 || [[File:Rhydon.png|50px]] [[Rhydon]] ||  Not available in the wild
+|-
+| 113 || [[File:Chansey.png|50px]] [[Chansey]] ||  Garden of Dreams (5%)
+|-
+| 114 || [[File:Tangela.png|50px]] [[Tangela]] ||  Forest of Time (10%)
+|-
+| 115 || [[File:Kangaskhan.png|50px]] [[Kangaskhan]] ||  Floral Pass (10%), Retire Park (10%), Floral Pass (10%)
+|-
+| 116 || [[File:Horsea.png|50px]] [[Horsea]] || [[Gacha]]
+Toucan Town (10%)
+|-
+| 117 || [[File:Seadra.png|50px]] [[Seadra]] ||  Not available in the wild
+|-
+| 118 || [[File:Goldeen.png|50px]] [[Goldeen]] ||  [[Player's Farm]] (10%), Route 11 (20%)
+|-
+| 119 || [[File:Seaking.png|50px]] [[Seaking]] ||  Floral Pass (25%), Retire Park (25%), Floral Pass (25%)
+|-
+| 120 || [[File:Staryu.png|50px]] [[Staryu]] ||  Nymph City (10%), Toucan Town (10%), Route 4 (10%), Route 8 (20%), Route 9 (10%)
+|-
+| 121 || [[File:Starmie.png|50px]] [[Starmie]] ||  Southern Island (20%), Southern Island 2 (20%)
+|-
+| 122 || [[File:MrMime.png|50x50px]] [[Mr. Mime]] || [[Gacha]]
+Not available in the wild
+|-
+| 122 || [[File:Galarian Mr Mime.png|50x50px]] [[Galarian Mr. Mime]] ||  Not available in the wild
+|-
+| 123 || [[File:Scyther.png|50px]] [[Scyther]] || [[Gacha]]
+Greenfinch Forest (5%), Forest of Time (5%)
+|-
+| 124 || [[File:Jynx.png|50px]] [[Jynx]] || [[Gacha]]
+Not available in the wild
+|-
+| 125 || [[File:Electabuzz.png|50px]] [[Electabuzz]] ||  Dr. Vega's Laboratory (10%), Route 17 (5%)
+|-
+| 126 || [[File:Magmar.png|50px]] [[Magmar]] ||  Tanager Cave (10%)
+|-
+| 127 || [[File:Pinsir.png|50px]] [[Pinsir]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Forest of Time (5%)
+|-
+| 128 || [[File:Tauros.png|50px]] [[Tauros]] ||  Route 21 (10%), Route 21 (pt 2) (10%)
+|-
+| 129 || [[File:Magikarp.png|50px]] [[Magikarp]] ||  Lost Forest (25%), Forest of Memories (25%), Forest of Time (20%), Forbe City (20%), Mysterious Cave (20%), Talegalo Cave (20%), Garden of Dreams (20%), [[Player's Farm]] (10%), Blackbird Town (25%), Nightingale Town (20%), Route 1 (100%), Route 10 (20%), Route 12 (20%), Route 13 (20%), Route 14 (20%), Route 16 (25%), Route 4 (50%), Route 5 (50%), Route 8 (40%), Sanctuary of Music (20%), Celestial Tower Ext. (25%)
+|-
+| 130 || [[File:Gyarados.png|50px]] [[Gyarados]] ||  Squawk Cave (30%), Route 19 (50%), Route 20 (20%), Route 20 (30%), Route 21 (20%), Route 21 (pt 2) (20%), Southern Island (20%), Southern Island 2 (20%)
+|-
+| 131 || [[File:Lapras.png|50px]] [[Lapras]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Southern Island (20%), Southern Island 2 (20%)
+|-
+| 132 || [[File:Ditto.png|50x50px]] [[Ditto]] || [[Gacha]]
+Garden of Dreams (5%)
+|-
+| 133 || [[File:Eevee.png|50px]] [[Eevee]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Garden of Dreams (5%)
+|-
+| 134 || [[File:Vaporeon.png|50px]] [[Vaporeon]] ||  Route 20 (20%), Route 20 (40%)
+|-
+| 135 || [[File:Jolteon.png|50px]] [[Jolteon]] ||  Dr. Vega's Laboratory (10%)
+|-
+| 136 || [[File:Flareon.png|50px]] [[Flareon]] ||  Tanager Cave (10%)
+|-
+| 137 || [[File:Porygon.png|50px]] [[Porygon]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+[[Gift Pokemon Locations|Dr. Vega's Laboratory (Gift)]]
+|-
+| 138 || [[File:Omanyte.png|50px]] [[Omanyte]] || [[Gacha]]
+Not available in the wild
+|-
+| 139 || [[File:Omastar.png|50px]] [[Omastar]] ||  Talegalo Cave (25%)
+|-
+| 140 || [[File:Kabuto.png|50px]] [[Kabuto]] || [[Gacha]]
+Not available in the wild
+|-
+| 141 || [[File:Kabutops.png|50px]] [[Kabutops]] ||  Talegalo Cave (25%)
+|-
+| 142 || [[File:Aerodactyl.png|50px]] [[Aerodactyl]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 143 || [[File:Snorlax.png|50px]] [[Snorlax]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 144 || [[File:Articuno.png|50px]] [[Articuno]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 144 || [[File:Galarian Articuno.png|50px]] [[Galarian Articuno]] ||  Not available in the wild
+|-
+| 145 || [[File:Zapdos.png|50px]] [[Zapdos]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 145 || [[File:Galarian Zapdos.png|50px]] [[Galarian Zapdos]] ||  Not available in the wild
+|-
+| 146 || [[File:Moltres.png|50px]] [[Moltres]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 146 || [[File:Galarian Moltres.png|50px]] [[Galarian Moltres]] ||  Not available in the wild
+|-
+| 147 || [[File:Dratini.png|50px]] [[Dratini]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+[[Player's Farm]] (50%), Celestial Tower Ext. (100%)
+|-
+| 148 || [[File:Dragonair.png|50px]] [[Dragonair]] ||  Not available in the wild
+|-
+| 149 || [[File:Dragonite.png|50px]] [[Dragonite]] ||  Not available in the wild
+|-
+| 150 || [[File:Mewtwo.png|50px]] [[Mewtwo]] ||  Not available in the wild
+|-
+| 151 || [[File:Mew.png|50px]] [[Mew]] ||  Not available in the wild
+|-
+| 152 || [[File:Chikorita.png|50px]] [[Chikorita]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Route 9 (5%)
+|-
+| 153 || [[File:Bayleef.png|50px]] [[Bayleef]] ||  Floral Pass (5%)
+|-
+| 154 || [[File:Meganium.png|50px]] [[Meganium]] ||  Not available in the wild
+|-
+| 155 || [[File:Cyndaquil.png|50px]] [[Cyndaquil]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 156 || [[File:Quilava.png|50px]] [[Quilava]] ||  Not available in the wild
+|-
+| 157 || [[File:Typhlosion.png|50px]] [[Typhlosion]] ||  Not available in the wild
+|-
+| 157 || [[File:Hisuian Typhlosion.png|50px]] [[Hisuian Typhlosion]] ||  Not available in the wild
+|-
+| 158 || [[File:Totodile.png|50px]] [[Totodile]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Forest of Time (10%), [[Player's Farm]] (20%), Route 11 (10%)
+|-
+| 159 || [[File:Croconaw.png|50px]] [[Croconaw]] ||  Not available in the wild
+|-
+| 160 || [[File:Feraligatr.png|50px]] [[Feraligatr]] ||  Not available in the wild
+|-
+| 161 || [[File:Sentret.png|50px]] [[Sentret]] ||  Route 1 (10%)
+|-
+| 162 || [[File:Furret.png|50px]] [[Furret]] ||  Route 12 (5%)
+|-
+| 163 || [[File:Hoothoot.png|50px]] [[Hoothoot]] ||  Not available in the wild
+|-
+| 164 || [[File:Noctowl.png|50px]] [[Noctowl]] ||  Route 16 (10%)
+|-
+| 165 || [[File:Ledyba.png|50px]] [[Ledyba]] ||  Greenfinch Forest (5%), Route 6 (10%)
+|-
+| 166 || [[File:Ledian.png|50px]] [[Ledian]] ||  Forest of Time (5%), JUNGLA CAMACHUELO (10%)
+|-
+| 167 || [[File:Spinarak.png|50px]] [[Spinarak]] ||  Greenfinch Forest (5%)
+|-
+| 168 || [[File:Ariados.png|50px]] [[Ariados]] ||  Lugano City Sewers (10%)
+|-
+| 169 || [[File:Crobat.png|50px]] [[Crobat]] ||  Talegalo Cave (10%)
+|-
+| 170 || [[File:Chinchou.png|50px]] [[Chinchou]] ||  Route 17 (50%), Route 18 (50%)
+|-
+| 171 || [[File:Lanturn.png|50px]] [[Lanturn]] ||  Route 17 (20%), Route 18 (20%), Southern Island (20%), Southern Island 2 (20%)
+|-
+| 172 || [[File:Pichu.png|50px]] [[Pichu]] ||  Not available in the wild
+|-
+| 173 || [[File:Cleffa.png|50px]] [[Cleffa]] ||  Royal Palace Garden (10%)
+|-
+| 174 || [[File:Igglybuff.png|50px]] [[Igglybuff]] ||  Royal Palace Garden (10%)
+|-
+| 175 || [[File:Togepi.png|50x50px]] [[Togepi]] || Royal Palace Garden (10%)
+[[Gift Pokemon Locations|Route 5 (Gift)]]
+|-
+| 176 || [[File:Togetic.png|50x50px]] [[Togetic]] ||  Not available in the wild
+|-
+| 177 || [[File:Natu.png|50px]] [[Natu]] ||  Not available in the wild
+|-
+| 178 || [[File:Xatu.png|50px]] [[Xatu]] ||  Route 11 (5%), Route 12 (5%)
+|-
+| 179 || [[File:Mareep.png|50px]] [[Mareep]] || [[Gacha]]
+Route 5 (10%), Route 5 (5%)
+|-
+| 180 || [[File:Flaaffy.png|50px]] [[Flaaffy]] ||  Not available in the wild
+|-
+| 181 || [[File:Ampharos.png|50px]] [[Ampharos]] ||  Route 21 (5%), Route 21 (pt 2) (5%)
+|-
+| 182 || [[File:Bellossom.png|50px]] [[Bellossom]] ||  Not available in the wild
+|-
+| 183 || [[File:Marill.png|50px]] [[Marill]] ||  Lost Forest (25%), Forest of Memories (25%), Forest of Time (20%), Forest of Time (25%), Forbe City (20%), Forbe City (25%), Mysterious Cave (20%), Finch Cave (100%), Relic Cave (Floor -1) (25%), Relic Cave (Floor 1) (25%), Relic Cave (Floor 2) (25%), Garden of Dreams (20%), Retire Park (25%), Floral Pass (25%), [[Player's Farm]] (10%), Blackbird Town (25%), Nightingale Town (40%), Route 3 (100%), Route 10 (20%), Route 12 (20%), Route 13 (20%), Route 14 (20%), Route 15 (20%), Route 16 (25%), Route 17 (50%), Route 18 (50%), Route 2 (100%), Route 4 (10%), Route 9 (20%), Sanctuary of Music (20%), Sanctuary of Music (25%), Celestial Tower Ext. (25%)
+|-
+| 184 || [[File:Azumarill.png|50px]] [[Azumarill]] ||  Royal Palace Garden (20%), Royal Palace Garden (70%), Floral Pass (25%), Floral Pass (45%), Retire Park (45%), Floral Pass (25%), Floral Pass (45%), Quack Path (40%)
+|-
+| 185 || [[File:Sudowoodo.png|50px]] [[Sudowoodo]] ||  Not available in the wild
+|-
+| 186 || [[File:Politoed.png|50px]] [[Politoed]] ||  Royal Palace Garden (40%), Route 17 (50%), Route 18 (50%), Route 19 (25%)
+|-
+| 187 || [[File:Hoppip.png|50px]] [[Hoppip]] ||  Route 7 (10%)
+|-
+| 188 || [[File:Skiploom.png|50px]] [[Skiploom]] ||  Route 12 (5%)
+|-
+| 189 || [[File:Jumpluff.png|50px]] [[Jumpluff]] ||  SELVA TUETUE (10%)
+|-
+| 190 || [[File:Aipom.png|50px]] [[Aipom]] || [[Gacha]]
+Route 6 (Norte) (10%), Route 6 (Sur) (10%), Route 7 (10%)
+|-
+| 191 || [[File:Sunkern.png|50px]] [[Sunkern]] ||  Not available in the wild
+|-
+| 192 || [[File:Sunflora.png|50px]] [[Sunflora]] ||  Floral Pass (10%), Route 11 (5%)
+|-
+| 193 || [[File:Yanma.png|50px]] [[Yanma]] ||  Garden of Dreams (5%), Route 7 (10%)
+|-
+| 194 || [[File:Wooper.png|50px]] [[Wooper]] ||  [[Player's Farm]] (10%), Route 6 (50%), Route 6 (Norte) (50%), Route 6 (Sur) (50%), Route 7 (45%)
+|-
+| 195 || [[File:Quagsire.png|50px]] [[Quagsire]] ||  Squawk Cave (40%), Route 15 (20%)
+|-
+| 196 || [[File:Espeon.png|50px]] [[Espeon]] ||  Not available in the wild
+|-
+| 197 || [[File:Umbreon.png|50px]] [[Umbreon]] ||  Quack Path (10%)
+|-
+| 198 || [[File:Murkrow.png|50px]] [[Murkrow]] || [[Gacha]]
+Lugano City (Center) (10%)
+|-
+| 199 || [[File:Slowking.png|50px]] [[Slowking]] ||  Not available in the wild
+|-
+| 199 || [[File:Galarian Slowking.png|50px]] [[Galarian Slowking]] ||  Not available in the wild
+|-
+| 200 || [[File:Misdreavus.png|50px]] [[Misdreavus]] || [[Gacha]]
+Forest of Memories (5%), Celestial Tower Ext. (15%)
+|-
+| 201 || [[File:Unown.png|50px]] [[Unown]] ||  Not available in the wild
+|-
+| 202 || [[File:Wobbuffet.png|50px]] [[Wobbuffet]] ||  Forest of Time (5%)
+|-
+| 203 || [[File:Girafarig.png|50px]] [[Girafarig]] || [[Gacha]]
+Route 12 (5%), Route 14 (10%)
+|-
+| 204 || [[File:Pineco.png|50px]] [[Pineco]] ||  Route 5 (5%)
+|-
+| 205 || [[File:Forretress.png|50px]] [[Forretress]] ||  Route 17 (5%)
+|-
+| 206 || [[File:Dunsparce.png|50px]] [[Dunsparce]] || [[Gacha]]
+Garden of Dreams (5%)
+|-
+| 207 || [[File:Gligar.png|50px]] [[Gligar]] || [[Gacha]]
+Route 10 (10%), Route 9 (5%)
+|-
+| 208 || [[File:Steelix.png|50px]] [[Steelix]] ||  Squawk Cave (10%)
+|-
+| 209 || [[File:Snubbull.png|50px]] [[Snubbull]] || [[Gacha]]
+Route 8 (10%)
+|-
+| 210 || [[File:Granbull.png|50px]] [[Granbull]] ||  Royal Palace Garden (10%)
+|-
+| 211 || [[File:Qwilfish.png|50px]] [[Qwilfish]] ||  Not available in the wild
+|-
+| 212 || [[File:Scizor.png|50px]] [[Scizor]] ||  Not available in the wild
+|-
+| 213 || [[File:Shuckle.png|50px]] [[Shuckle]] || [[Gacha]]
+Not available in the wild
+|-
+| 214 || [[File:Heracross.png|50px]] [[Heracross]] ||  Lost Forest (10%), Floral Pass (10%), Floral Pass (10%)
+|-
+| 215 || [[File:Sneasel.png|50px]] [[Sneasel]] || [[Gacha]]
+Not available in the wild
+|-
+| 215 || [[File:Hisuian Sneasel.png|50px]] [[Hisuian Sneasel]] ||  Not available in the wild
+|-
+| 216 || [[File:Teddiursa.png|50px]] [[Teddiursa]] || [[Gacha]]
+Route 8 (5%)
+|-
+| 217 || [[File:Ursaring.png|50px]] [[Ursaring]] ||  Lost Forest (10%)
+|-
+| 218 || [[File:Slugma.png|50px]] [[Slugma]] ||  Not available in the wild
+|-
+| 219 || [[File:Magcargo.png|50px]] [[Magcargo]] ||  Tanager Cave (10%)
+|-
+| 220 || [[File:Swinub.png|50px]] [[Swinub]] || [[Gacha]]
+Not available in the wild
+|-
+| 221 || [[File:Piloswine.png|50px]] [[Piloswine]] ||  Not available in the wild
+|-
+| 222 || [[File:Corsola.png|50px]] [[Corsola]] || [[Gacha]]
+Not available in the wild
+|-
+| 222 || [[File:Galarian Corsola.png|50px]] [[Galarian Corsola]] ||  Forest Of Memories (10%), Blackbird Town (35%), Celestial Tower Ext. (35%), Route 16 (35%), Lost Forest (35%), Route 19 (35%), Lugano City Sewers (15%)
+|-
+| 223 || [[File:Remoraid.png|50px]] [[Remoraid]] ||  Not available in the wild
+|-
+| 224 || [[File:Octillery.png|50px]] [[Octillery]] ||  Southern Island (20%), Southern Island 2 (20%)
+|-
+| 225 || [[File:Delibird.png|50px]] [[Delibird]] ||  Not available in the wild
+|-
+| 226 || [[File:Mantine.png|50px]] [[Mantine]] ||  Southern Island (20%), Southern Island 2 (20%)
+|-
+| 227 || [[File:Skarmory.png|50px]] [[Skarmory]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Route 17 (10%)
+|-
+| 228 || [[File:Houndour.png|50px]] [[Houndour]] || [[Gacha]]
+Route 10 (10%), Route 9 (10%)
+|-
+| 229 || [[File:Houndoom.png|50px]] [[Houndoom]] ||  Not available in the wild
+|-
+| 230 || [[File:Kingdra.png|50px]] [[Kingdra]] ||  Not available in the wild
+|-
+| 231 || [[File:Phanpy.png|50px]] [[Phanpy]] || [[Gacha]]
+Route 10 (10%), Route 14 (10%), Route 9 (10%)
+|-
+| 232 || [[File:Donphan.png|50px]] [[Donphan]] ||  Route 20 (10%)
+|-
+| 233 || [[File:Porygon2.png|50px]] [[Porygon2]] ||  Not available in the wild
+|-
+| 234 || [[File:Stantler.png|50px]] [[Stantler]] || [[Gacha]]
+Garden of Dreams (5%)
+|-
+| 235 || [[File:Smeargle.png|50px]] [[Smeargle]] ||  Garden of Dreams (5%)
+|-
+| 236 || [[File:Tyrogue.png|50px]] [[Tyrogue]] ||  Relic Cave (Floor -1) (10%), Relic Cave (Floor -2) (10%), Relic Cave (Floor 0) (10%), Relic Cave (Floor 1) (10%), Relic Cave (Floor 2) (10%)
+|-
+| 237 || [[File:Hitmontop.png|50px]] [[Hitmontop]] || [[Gacha]]
+Route 20 (10%)
+|-
+| 238 || [[File:Smoochum.png|50px]] [[Smoochum]] ||  Royal Palace Garden (10%)
+|-
+| 239 || [[File:Elekid.png|50px]] [[Elekid]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Royal Palace Garden (5%)
+[[Gift Pokemon Locations|Nightingale Town (Gift)]]
+|-
+| 240 || [[File:Magby.png|50px]] [[Magby]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Royal Palace Garden (5%)
+|-
+| 241 || [[File:Miltank.png|50px]] [[Miltank]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Route 21 (5%), Route 21 (pt 2) (5%)
+|-
+| 242 || [[File:Blissey.png|50px]] [[Blissey]] ||  Not available in the wild
+|-
+| 243 || [[File:Raikou.png|50px]] [[Raikou]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 244 || [[File:Entei.png|50px]] [[Entei]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 245 || [[File:Suicune.png|50px]] [[Suicune]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 246 || [[File:Larvitar.png|50px]] [[Larvitar]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Mystic Cave (10%)
+|-
+| 247 || [[File:Pupitar.png|50px]] [[Pupitar]] ||  Route 20 (5%)
+|-
+| 248 || [[File:Tyranitar.png|50px]] [[Tyranitar]] ||  Not available in the wild
+|-
+| 249 || [[File:Lugia.png|50px]] [[Lugia]] ||  Not available in the wild
+|-
+| 250 || [[File:HoOh.png|50x50px]] [[Ho-Oh]] ||  Not available in the wild
+|-
+| 251 || [[File:Celebi.png|50px]] [[Celebi]] ||  Not available in the wild
+|-
+| 252 || [[File:Treecko.png|50px]] [[Treecko]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 253 || [[File:Grovyle.png|50px]] [[Grovyle]] ||  Not available in the wild
+|-
+| 254 || [[File:Sceptile.png|50px]] [[Sceptile]] ||  Not available in the wild
+|-
+| 255 || [[File:Torchic.png|50px]] [[Torchic]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 256 || [[File:Combusken.png|50px]] [[Combusken]] ||  Tanager Cave (5%)
+|-
+| 257 || [[File:Blaziken.png|50px]] [[Blaziken]] ||  Not available in the wild
+|-
+| 258 || [[File:Mudkip.png|50px]] [[Mudkip]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Route 7 (5%)
+|-
+| 259 || [[File:Marshtomp.png|50px]] [[Marshtomp]] ||  Not available in the wild
+|-
+| 260 || [[File:Swampert.png|50px]] [[Swampert]] ||  Not available in the wild
+|-
+| 261 || [[File:Poochyena.png|50px]] [[Poochyena]] ||  Not available in the wild
+|-
+| 262 || [[File:Mightyena.png|50px]] [[Mightyena]] ||  Akebia Prison (Floor -2) (20%), Route 20 (10%)
+|-
+| 263 || [[File:Zigzagoon.png|50px]] [[Zigzagoon]] ||  Route 2 (10%)
+|-
+| 263 || [[File:Galarian Zigzagoon.png|50px]] [[Galarian Zigzagoon]] ||  Akebia Prison (Floor -2) (20%)
+|-
+| 264 || [[File:Linoone.png|50px]] [[Linoone]] ||  Not available in the wild
+|-
+| 264 || [[File:Galarian Linoone.png|50px]] [[Galarian Linoone]] || Lugano City Sewers (10%)
+|-
+| 265 || [[File:Wurmple.png|50px]] [[Wurmple]] ||  Greenfinch Forest (5%)
+|-
+| 266 || [[File:Silcoon.png|50px]] [[Silcoon]] ||  Not available in the wild
+|-
+| 267 || [[File:Beautifly.png|50px]] [[Beautifly]] ||  Forest of Time (5%)
+|-
+| 268 || [[File:Cascoon.png|50px]] [[Cascoon]] ||  Not available in the wild
+|-
+| 269 || [[File:Dustox.png|50px]] [[Dustox]] ||  Forest of Time (5%)
+|-
+| 270 || [[File:Lotad.png|50px]] [[Lotad]] || [[Gacha]]
+Route 1 (10%)
+|-
+| 271 || [[File:Lombre.png|50px]] [[Lombre]] ||  JUNGLA CAMACHUELO (10%)
+|-
+| 272 || [[File:Ludicolo.png|50px]] [[Ludicolo]] ||  Southern Island (5%)
+|-
+| 273 || [[File:Seedot.png|50px]] [[Seedot]] || [[Gacha]]
+Route 1 (10%)
+|-
+| 274 || [[File:Nuzleaf.png|50px]] [[Nuzleaf]] ||  JUNGLA CAMACHUELO (10%), SELVA TUETUE (10%)
+|-
+| 275 || [[File:Shiftry.png|50px]] [[Shiftry]] ||  Route 20 (10%)
+|-
+| 276 || [[File:Taillow.png|50px]] [[Taillow]] ||  Route 6 (10%), Route 6 (Norte) (10%), Route 6 (Sur) (10%)
+|-
+| 277 || [[File:Swellow.png|50px]] [[Swellow]] ||  Route 17 (10%), Route 18 (10%)
+|-
+| 278 || [[File:Wingull.png|50px]] [[Wingull]] ||  Nymph City (10%), Toucan Town (20%), Route 4 (10%)
+|-
+| 279 || [[File:Pelipper.png|50px]] [[Pelipper]] ||  Toucan Town (10%)
+|-
+| 280 || [[File:Ralts.png|50px]] [[Ralts]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Route 7 (5%), Sanctuary of Music previo (10%)
+|-
+| 281 || [[File:Kirlia.png|50px]] [[Kirlia]] ||  Route 12 (5%), Route 15 (5%)
+|-
+| 282 || [[File:Gardevoir.png|50px]] [[Gardevoir]] ||  Not available in the wild
+|-
+| 283 || [[File:Surskit.png|50px]] [[Surskit]] ||  Forest of Time (20%), Forbe City (20%), Route 12 (20%), Route 13 (20%), Route 14 (20%), Route 6 (10%), Route 6 (Norte) (10%), Route 6 (Sur) (10%), Sanctuary of Music (20%)
+|-
+| 284 || [[File:Masquerain.png|50px]] [[Masquerain]] ||  Route 15 (20%)
+|-
+| 285 || [[File:Shroomish.png|50px]] [[Shroomish]] || [[Gacha]]
+Greenfinch Forest (5%), Route 6 (10%)
+|-
+| 286 || [[File:Breloom.png|50px]] [[Breloom]] ||  Lost Forest (10%)
+|-
+| 287 || [[File:Slakoth.png|50px]] [[Slakoth]] || [[Gacha]]
+Route 6 (Norte) (10%), Route 6 (Sur) (10%)
+|-
+| 288 || [[File:Vigoroth.png|50px]] [[Vigoroth]] ||  Lost Forest (10%)
+|-
+| 289 || [[File:Slaking.png|50px]] [[Slaking]] ||  Not available in the wild
+|-
+| 290 || [[File:Nincada.png|50px]] [[Nincada]] ||  Greenfinch Forest (5%)
+|-
+| 291 || [[File:Ninjask.png|50px]] [[Ninjask]] ||  Not available in the wild
+|-
+| 292 || [[File:Shedinja.png|50px]] [[Shedinja]] ||  Quack Path (5%)
+|-
+| 293 || [[File:Whismur.png|50px]] [[Whismur]] || [[Gacha]]
+Not available in the wild
+|-
+| 294 || [[File:Loudred.png|50px]] [[Loudred]] ||  Not available in the wild
+|-
+| 295 || [[File:Exploud.png|50px]] [[Exploud]] ||  Not available in the wild
+|-
+| 296 || [[File:Makuhita.png|50px]] [[Makuhita]] || [[Gacha]]
+Finch Cave (10%)
+|-
+| 297 || [[File:Hariyama.png|50px]] [[Hariyama]] ||  Not available in the wild
+|-
+| 298 || [[File:Azurill.png|50px]] [[Azurill]] ||  Route 1 (10%)
+|-
+| 299 || [[File:Nosepass.png|50px]] [[Nosepass]] ||  Mystic Cave (10%), Finch Cave (5%)
+|-
+| 300 || [[File:Skitty.png|50px]] [[Skitty]] ||  Route 3 (20%)
+|-
+| 301 || [[File:Delcatty.png|50px]] [[Delcatty]] ||  Lugano City (Center) (10%), Royal Palace Garden (10%), Retire Park (10%), Route 12 (5%)
+|-
+| 302 || [[File:Sableye.png|50px]] [[Sableye]] || [[Gacha]]
+Algorithm Cave (50%), Magnetic Cave (10%), Celestial Tower Floor (10%)
+|-
+| 303 || [[File:Mawile.png|50px]] [[Mawile]] || [[Gacha]]
+Mystic Cave (10%), Celestial Tower Floor (10%)
+|-
+| 304 || [[File:Aron.png|50px]] [[Aron]] || [[Gacha]]
+Mysterious Cave (10%), Relic Cave (Floor -1) (10%), Relic Cave (Floor -2) (10%), Relic Cave (Floor 0) (10%), Relic Cave (Floor 1) (10%), Relic Cave (Floor 2) (10%)
+|-
+| 305 || [[File:Lairon.png|50px]] [[Lairon]] ||  Mystic Cave (10%), Squawk Cave (10%), Mystic Cave (10%)
+|-
+| 306 || [[File:Aggron.png|50px]] [[Aggron]] ||  Not available in the wild
+|-
+| 307 || [[File:Meditite.png|50px]] [[Meditite]] || [[Gacha]]
+Relic Cave (Floor -1) (10%), Relic Cave (Floor -2) (10%), Relic Cave (Floor 0) (10%), Relic Cave (Floor 1) (10%), Relic Cave (Floor 2) (10%)
+|-
+| 308 || [[File:Medicham.png|50px]] [[Medicham]] ||  Not available in the wild
+|-
+| 309 || [[File:Electrike.png|50px]] [[Electrike]] || [[Gacha]]
+Not available in the wild
+|-
+| 310 || [[File:Manectric.png|50px]] [[Manectric]] ||  Dr. Vega's Laboratory (10%), Route 17 (10%)
+|-
+| 311 || [[File:Plusle.png|50px]] [[Plusle]] ||  Not available in the wild
+|-
+| 312 || [[File:Minun.png|50px]] [[Minun]] ||  Not available in the wild
+|-
+| 313 || [[File:Volbeat.png|50px]] [[Volbeat]] ||  Greenfinch Forest (5%)
+|-
+| 314 || [[File:Illumise.png|50px]] [[Illumise]] ||  Greenfinch Forest (5%)
+|-
+| 315 || [[File:Roselia.png|50px]] [[Roselia]] ||  Floral Pass (10%)
+|-
+| 316 || [[File:Gulpin.png|50px]] [[Gulpin]] ||  Not available in the wild
+|-
+| 317 || [[File:Swalot.png|50px]] [[Swalot]] ||  Route 18 (10%)
+|-
+| 318 || [[File:Carvanha.png|50px]] [[Carvanha]] || [[Gacha]]
+Toucan Town (10%), Toucan Town (20%)
+|-
+| 319 || [[File:Sharpedo.png|50px]] [[Sharpedo]] ||  Southern Island (20%), Southern Island 2 (20%)
+|-
+| 320 || [[File:Wailmer.png|50px]] [[Wailmer]] ||  Not available in the wild
+|-
+| 321 || [[File:Wailord.png|50px]] [[Wailord]] ||  Not available in the wild
+|-
+| 322 || [[File:Numel.png|50px]] [[Numel]] || [[Gacha]]
+Not available in the wild
+|-
+| 323 || [[File:Camerupt.png|50px]] [[Camerupt]] ||  Tanager Cave (10%)
+|-
+| 324 || [[File:Torkoal.png|50px]] [[Torkoal]] ||  Tanager Cave (10%)
+|-
+| 325 || [[File:Spoink.png|50px]] [[Spoink]] ||  Forest of Time (5%)
+|-
+| 326 || [[File:Grumpig.png|50px]] [[Grumpig]] ||  Route 19 (10%)
+|-
+| 327 || [[File:Spinda.png|50px]] [[Spinda]] || [[Gacha]]
+Not available in the wild
+|-
+| 328 || [[File:Trapinch.png|50px]] [[Trapinch]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 329 || [[File:Vibrava.png|50px]] [[Vibrava]] ||  Route 20 (10%)
+|-
+| 330 || [[File:Flygon.png|50px]] [[Flygon]] ||  Not available in the wild
+|-
+| 331 || [[File:Cacnea.png|50px]] [[Cacnea]] ||  Not available in the wild
+|-
+| 332 || [[File:Cacturne.png|50px]] [[Cacturne]] ||  Not available in the wild
+|-
+| 333 || [[File:Swablu.png|50px]] [[Swablu]] || [[Gacha]]
+Route 13 (5%), Route 8 (10%)
+|-
+| 334 || [[File:Altaria.png|50px]] [[Altaria]] ||  Route 17 (10%)
+|-
+| 335 || [[File:Zangoose.png|50px]] [[Zangoose]] || [[Gacha]]
+Not available in the wild
+|-
+| 336 || [[File:Seviper.png|50px]] [[Seviper]] || [[Gacha]]
+Quack Path (5%)
+|-
+| 337 || [[File:Lunatone.png|50px]] [[Lunatone]] || [[Gacha]]
+Mysterious Cave (5%)
+|-
+| 338 || [[File:Solrock.png|50px]] [[Solrock]] || [[Gacha]]
+Mysterious Cave (5%)
+|-
+| 339 || [[File:Barboach.png|50px]] [[Barboach]] || [[Gacha]]
+Garden of Dreams (20%), [[Player's Farm]] (20%), Route 10 (20%), Route 6 (25%), Route 6 (Norte) (25%), Route 6 (Sur) (25%), Route 7 (25%), Route 9 (20%)
+|-
+| 340 || [[File:Whiscash.png|50px]] [[Whiscash]] ||  Squawk Cave (50%), Retire Park (70%)
+|-
+| 341 || [[File:Corphish.png|50px]] [[Corphish]] || [[Gacha]]
+Lost Forest (25%), Forest of Memories (25%), Forest of Time (20%), Forbe City (20%), Nymph City (25%), Magnetic Cave (20%), Garden of Dreams (20%), [[Player's Farm]] (10%), Blackbird Town (25%), Nightingale Town (20%), Nightingale Town (50%), Toucan Town (20%), Route 10 (20%), Route 11 (30%), Route 12 (20%), Route 13 (20%), Route 14 (20%), Route 15 (20%), Route 16 (25%), Route 6 (Sur) (25%), Route 7 (25%), Route 9 (10%), Sanctuary of Music (20%), Sanctuary of Music (25%), Celestial Tower Ext. (25%)
+|-
+| 342 || [[File:Crawdaunt.png|50px]] [[Crawdaunt]] ||  Floral Pass (25%), Retire Park (25%), Floral Pass (25%)
+|-
+| 343 || [[File:Baltoy.png|50px]] [[Baltoy]] || [[Gacha]]
+Celestial Tower Floor (10%)
+|-
+| 344 || [[File:Claydol.png|50px]] [[Claydol]] ||  Not available in the wild
+|-
+| 345 || [[File:Lileep.png|50px]] [[Lileep]] || [[Gacha]]
+Squawk Cave (10%)
+|-
+| 346 || [[File:Cradily.png|50px]] [[Cradily]] ||  Not available in the wild
+|-
+| 347 || [[File:Anorith.png|50px]] [[Anorith]] || [[Gacha]]
+Squawk Cave (10%)
+|-
+| 348 || [[File:Armaldo.png|50px]] [[Armaldo]] ||  Not available in the wild
+|-
+| 349 || [[File:Feebas.png|50px]] [[Feebas]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+[[Player's Farm]] (50%), Sanctuary of Music (20%)
+|-
+| 350 || [[File:Milotic.png|50px]] [[Milotic]] ||  Southern Island (20%), Southern Island 2 (20%)
+|-
+| 351 || [[File:CastformN.png|50x50px]] [[Castform]] || [[Gacha]]
+Route 14 (10%)
+|-
+| 352 || [[File:Kecleon.png|50px]] [[Kecleon]] ||  Garden of Dreams (5%), Route 11 (5%), Route 17 (10%)
+|-
+| 353 || [[File:Shuppet.png|50px]] [[Shuppet]] || [[Gacha]]
+Forest of Memories (10%), Route 16 (10%), Cemetery (20%)
+|-
+| 354 || [[File:Banette.png|50px]] [[Banette]] ||  Celestial Tower Floor (10%)
+|-
+| 355 || [[File:Duskull.png|50px]] [[Duskull]] || [[Gacha]]
+Forest of Memories (10%)
+|-
+| 356 || [[File:Dusclops.png|50px]] [[Dusclops]] ||  Route 19 (10%), Cemetery (10%), Celestial Tower Floor (5%)
+|-
+| 357 || [[File:Tropius.png|50px]] [[Tropius]] || [[Gacha]]
+JUNGLA CAMACHUELO (10%), Route 11 (5%), Route 17 (10%), SELVA TUETUE (10%)
+|-
+| 358 || [[File:Chimecho.png|50px]] [[Chimecho]] || [[Gacha]]
+Route 14 (10%)
+|-
+| 359 || [[File:Absol.png|50px]] [[Absol]] || [[Gacha]]
+Route 17 (10%), Route 18 (10%)
+|-
+| 360 || [[File:Wynaut.png|50px]] [[Wynaut]] ||  Royal Palace Garden (10%)
+|-
+| 361 || [[File:Snorunt.png|50px]] [[Snorunt]] || [[Gacha]]
+Not available in the wild
+|-
+| 362 || [[File:Glalie.png|50px]] [[Glalie]] ||  Not available in the wild
+|-
+| 363 || [[File:Spheal.png|50px]] [[Spheal]] || [[Gacha]]
+Not available in the wild
+|-
+| 364 || [[File:Sealeo.png|50px]] [[Sealeo]] ||  Not available in the wild
+|-
+| 365 || [[File:Walrein.png|50px]] [[Walrein]] ||  Not available in the wild
+|-
+| 366 || [[File:Clamperl.png|50px]] [[Clamperl]] || [[Gacha]]
+Nymph City (30%)
+|-
+| 367 || [[File:Huntail.png|50px]] [[Huntail]] ||  Not available in the wild
+|-
+| 368 || [[File:Gorebyss.png|50px]] [[Gorebyss]] ||  Not available in the wild
+|-
+| 369 || [[File:Relicanth.png|50px]] [[Relicanth]] || [[Gacha]]
+Not available in the wild
+|-
+| 370 || [[File:Luvdisc.png|50px]] [[Luvdisc]] ||  Toucan Town (10%)
+|-
+| 371 || [[File:Bagon.png|50px]] [[Bagon]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Talegalo Cave (5%)
+|-
+| 372 || [[File:Shelgon.png|50px]] [[Shelgon]] ||  Not available in the wild
+|-
+| 373 || [[File:Salamence.png|50px]] [[Salamence]] ||  Not available in the wild
+|-
+| 374 || [[File:Beldum.png|50px]] [[Beldum]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+[[Gift Pokemon Locations|Algorithm Cave (Gift)]]
+|-
+| 375 || [[File:Metang.png|50px]] [[Metang]] ||  Not available in the wild
+|-
+| 376 || [[File:Metagross.png|50px]] [[Metagross]] ||  Not available in the wild
+|-
+| 377 || [[File:Regirock.png|50px]] [[Regirock]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 378 || [[File:Regice.png|50px]] [[Regice]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 379 || [[File:Registeel.png|50px]] [[Registeel]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 380 || [[File:Latias.png|50px]] [[Latias]] ||  Not available in the wild
+|-
+| 381 || [[File:Latios.png|50px]] [[Latios]] ||  Not available in the wild
+|-
+| 382 || [[File:Kyogre.png|50px]] [[Kyogre]] ||  Not available in the wild
+|-
+| 383 || [[File:Groudon.png|50px]] [[Groudon]] ||  Not available in the wild
+|-
+| 384 || [[File:Rayquaza.png|50px]] [[Rayquaza]] ||  Not available in the wild
+|-
+| 385 || [[File:Jirachi.png|50px]] [[Jirachi]] ||  Not available in the wild
+|-
+| 386 || [[File:DeoxysN.png|50x50px]] [[Deoxys]] ||  Not available in the wild
+|-
+| 387 || [[File:Turtwig.png|50px]] [[Turtwig]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Lost Forest (10%)
+|-
+| 388 || [[File:Grotle.png|50px]] [[Grotle]] ||  Not available in the wild
+|-
+| 389 || [[File:Torterra.png|50px]] [[Torterra]] ||  Not available in the wild
+|-
+| 390 || [[File:Chimchar.png|50px]] [[Chimchar]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 391 || [[File:Monferno.png|50px]] [[Monferno]] ||  Tanager Cave (5%)
+|-
+| 392 || [[File:Infernape.png|50px]] [[Infernape]] ||  Not available in the wild
+|-
+| 393 || [[File:Piplup.png|50px]] [[Piplup]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 394 || [[File:Prinplup.png|50px]] [[Prinplup]] ||  Not available in the wild
+|-
+| 395 || [[File:Empoleon.png|50px]] [[Empoleon]] ||  Not available in the wild
+|-
+| 396 || [[File:Starly.png|50px]] [[Starly]] ||  Route 4 (20%), Route 5 (10%)
+|-
+| 397 || [[File:Staravia.png|50px]] [[Staravia]] ||  Route 11 (10%)
+|-
+| 398 || [[File:Staraptor.png|50px]] [[Staraptor]] ||  Route 20 (10%)
+|-
+| 399 || [[File:Bidoof.png|50px]] [[Bidoof]] ||  Not available in the wild
+|-
+| 400 || [[File:Bibarel.png|50px]] [[Bibarel]] ||  Retire Park (10%), Route 21 (30%), Route 21 (70%), Route 21 (pt 2) (30%), Route 21 (pt 2) (70%)
+|-
+| 401 || [[File:Kricketot.png|50px]] [[Kricketot]] ||  Greenfinch Forest (5%), Route 6 (10%)
+|-
+| 402 || [[File:Kricketune.png|50px]] [[Kricketune]] ||  Retire Park (10%)
+|-
+| 403 || [[File:Shinx.png|50px]] [[Shinx]] || [[Gacha]]
+Route 4 (20%), Route 5 (10%)
+|-
+| 404 || [[File:Luxio.png|50px]] [[Luxio]] ||  Not available in the wild
+|-
+| 405 || [[File:Luxray.png|50px]] [[Luxray]] ||  Not available in the wild
+|-
+| 406 || [[File:Budew.png|50px]] [[Budew]] || [[Gacha]]
+Route 3 (15%), Route 2 (10%), Route 6 (Norte) (10%)
+|-
+| 407 || [[File:Roserade.png|50px]] [[Roserade]] ||  Floral Pass (10%)
+|-
+| 408 || [[File:Cranidos.png|50px]] [[Cranidos]] || [[Gacha]]
+Not available in the wild
+|-
+| 409 || [[File:Rampardos.png|50px]] [[Rampardos]] ||  Not available in the wild
+|-
+| 410 || [[File:Shieldon.png|50px]] [[Shieldon]] || [[Gacha]]
+Not available in the wild
+|-
+| 411 || [[File:Bastiodon.png|50px]] [[Bastiodon]] ||  Squawk Cave (10%)
+|-
+| 412 || [[File:Burmy.png|50px]] [[Burmy]] ||  Greenfinch Forest (5%)
+|-
+| 413 || [[File:Wormadam-plant.png|50px]] [[Wormadam]] ||  Lost Forest (10%)
+|-
+| 414 || [[File:Mothim.png|50px]] [[Mothim]] ||  JUNGLA CAMACHUELO (10%)
+|-
+| 415 || [[File:Combee.png|50px]] [[Combee]] ||  Route 6 (10%), Route 7 (10%)
+|-
+| 416 || [[File:Vespiquen.png|50px]] [[Vespiquen]] ||  Lost Forest (10%), Route 21 (10%), Route 21 (pt 2) (10%)
+|-
+| 417 || [[File:Pachirisu.png|50px]] [[Pachirisu]] || [[Gacha]]
+Lugano City (Center) (10%), Retire Park (10%), Route 15 (10%)
+|-
+| 418 || [[File:Buizel.png|50px]] [[Buizel]] ||  [[Player's Farm]] (10%), Route 11 (20%), Route 9 (10%)
+|-
+| 419 || [[File:Floatzel.png|50px]] [[Floatzel]] ||  Route 14 (20%), Route 17 (10%), Route 18 (10%), Route 19 (25%)
+|-
+| 420 || [[File:Cherubi.png|50px]] [[Cherubi]] ||  Garden of Dreams (5%)
+|-
+| 421 || [[File:Cherrim.png|50px]] [[Cherrim]] ||  Route 11 (5%), Route 12 (5%), SELVA TUETUE (10%)
+|-
+| 422 || [[File:Shellos.png|50px]] [[Shellos]] || [[Gacha]]
+Nymph City (15%), Toucan Town (15%)
+|-
+| 423 || [[File:Gastrodon.png|50px]] [[Gastrodon]] ||  Southern Island (10%), Southern Island 2 (10%)
+|-
+| 424 || [[File:Ambipom.png|50px]] [[Ambipom]] ||  Retire Park (10%)
+|-
+| 425 || [[File:Drifloon.png|50px]] [[Drifloon]] || [[Gacha]]
+Route 15 (10%), Route 16 (10%)
+|-
+| 426 || [[File:Drifblim.png|50px]] [[Drifblim]] ||  Not available in the wild
+|-
+| 427 || [[File:Buneary.png|50px]] [[Buneary]] ||  Not available in the wild
+|-
+| 428 || [[File:Lopunny.png|50px]] [[Lopunny]] ||  Retire Park (10%)
+|-
+| 429 || [[File:Mismagius.png|50px]] [[Mismagius]] ||  Quack Path (5%)
+|-
+| 430 || [[File:Honchkrow.png|50px]] [[Honchkrow]] ||  Quack Path (10%)
+|-
+| 431 || [[File:Glameow.png|50px]] [[Glameow]] ||  Garden of Dreams (5%)
+|-
+| 432 || [[File:Purugly.png|50px]] [[Purugly]] ||  Royal Palace Garden (10%)
+|-
+| 433 || [[File:Chingling.png|50px]] [[Chingling]] ||  Forest of Time (10%)
+|-
+| 434 || [[File:Stunky.png|50px]] [[Stunky]] || [[Gacha]]
+Akebia Prison (Floor -2) (20%)
+|-
+| 435 || [[File:Skuntank.png|50px]] [[Skuntank]] ||  Not available in the wild
+|-
+| 436 || [[File:Bronzor.png|50px]] [[Bronzor]] || [[Gacha]]
+Mystic Cave (10%)
+|-
+| 437 || [[File:Bronzong.png|50px]] [[Bronzong]] ||  Magnetic Cave (10%)
+|-
+| 438 || [[File:Bonsly.png|50px]] [[Bonsly]] ||  Royal Palace Garden (10%)
+|-
+| 439 || [[File:Mime-jr.png|50px]] [[Mime Jr.]]. || Forest of Time, Sanctuary of Music
+|-
+| 440 || [[File:Happiny.png|50px]] [[Happiny]] || [[Gacha]]
+Royal Palace Garden (10%)
+|-
+| 441 || [[File:Chatot.png|50px]] [[Chatot]] || [[Gacha]]
+Route 11 (5%), Southern Island (10%), Southern Island 2 (10%)
+|-
+| 442 || [[File:Spiritomb.png|50px]] [[Spiritomb]] ||  Not available in the wild
+|-
+| 443 || [[File:Gible.png|50px]] [[Gible]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Mysterious Cave (20%)
+|-
+| 444 || [[File:Gabite.png|50px]] [[Gabite]] ||  Not available in the wild
+|-
+| 445 || [[File:Garchomp.png|50px]] [[Garchomp]] ||  Not available in the wild
+|-
+| 446 || [[File:Munchlax.png|50px]] [[Munchlax]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Royal Palace Garden (5%), Garden of Dreams (5%)
+|-
+| 447 || [[File:Riolu.png|50px]] [[Riolu]] ||  Not available in the wild
+|-
+| 448 || [[File:Lucario.png|50px]] [[Lucario]] ||  Not available in the wild
+|-
+| 449 || [[File:Hippopotas.png|50px]] [[Hippopotas]] || [[Gacha]]
+Not available in the wild
+|-
+| 450 || [[File:Hippowdon.png|50px]] [[Hippowdon]] ||  Not available in the wild
+|-
+| 451 || [[File:Skorupi.png|50px]] [[Skorupi]] || [[Gacha]]
+Route 7 (10%)
+|-
+| 452 || [[File:Drapion.png|50px]] [[Drapion]] ||  Route 20 (10%)
+|-
+| 453 || [[File:Croagunk.png|50px]] [[Croagunk]] || [[Gacha]]
+Route 7 (10%)
+|-
+| 454 || [[File:Toxicroak.png|50px]] [[Toxicroak]] ||  Lugano City Sewers (10%)
+|-
+| 455 || [[File:Carnivine.png|50px]] [[Carnivine]] || [[Gacha]]
+Route 17 (10%), Route 18 (10%)
+|-
+| 456 || [[File:Finneon.png|50px]] [[Finneon]] ||  Nymph City (20%)
+|-
+| 457 || [[File:Lumineon.png|50px]] [[Lumineon]] ||  Not available in the wild
+|-
+| 458 || [[File:Mantyke.png|50px]] [[Mantyke]] || [[Gacha]]
+Royal Palace Garden (20%)
+[[Gift Pokemon Locations|Cardenal City East (Gift)]]
+|-
+| 459 || [[File:Snover.png|50px]] [[Snover]] || [[Gacha]]
+Not available in the wild
+|-
+| 460 || [[File:Abomasnow.png|50px]] [[Abomasnow]] ||  Not available in the wild
+|-
+| 461 || [[File:Weavile.png|50px]] [[Weavile]] ||  Not available in the wild
+|-
+| 462 || [[File:Magnezone.png|50px]] [[Magnezone]] ||  Not available in the wild
+|-
+| 463 || [[File:Lickilicky.png|50px]] [[Lickilicky]] ||  Not available in the wild
+|-
+| 464 || [[File:Rhyperior.png|50px]] [[Rhyperior]] ||  Not available in the wild
+|-
+| 465 || [[File:Tangrowth.png|50px]] [[Tangrowth]] ||  Not available in the wild
+|-
+| 466 || [[File:Electivire.png|50px]] [[Electivire]] ||  Not available in the wild
+|-
+| 467 || [[File:Magmortar.png|50px]] [[Magmortar]] ||  Not available in the wild
+|-
+| 468 || [[File:Togekiss.png|50px]] [[Togekiss]] ||  Not available in the wild
+|-
+| 469 || [[File:Yanmega.png|50px]] [[Yanmega]] ||  Route 20 (5%)
+|-
+| 470 || [[File:Leafeon.png|50px]] [[Leafeon]] ||  Not available in the wild
+|-
+| 471 || [[File:Glaceon.png|50px]] [[Glaceon]] ||  Not available in the wild
+|-
+| 472 || [[File:Gliscor.png|50px]] [[Gliscor]] ||  Quack Path (5%)
+|-
+| 473 || [[File:Mamoswine.png|50px]] [[Mamoswine]] ||  Not available in the wild
+|-
+| 474 || [[File:Porygon-z.png|50px]] [[Porygon-Z]] ||  Not available in the wild
+|-
+| 475 || [[File:Gallade.png|50px]] [[Gallade]] ||  Not available in the wild
+|-
+| 476 || [[File:Probopass.png|50px]] [[Probopass]] ||  Squawk Cave (10%)
+|-
+| 477 || [[File:Dusknoir.png|50px]] [[Dusknoir]] ||  Not available in the wild
+|-
+| 478 || [[File:Froslass.png|50px]] [[Froslass]] ||  Not available in the wild
+|-
+| 479 || [[File:Rotom.png|50px]] [[Rotom]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Dr. Vega's Laboratory (10%), Route 16 (10%), Route 19 (10%)
+|-
+| 480 || [[File:Uxie.png|50px]] [[Uxie]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 481 || [[File:Mesprit.png|50px]] [[Mesprit]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 482 || [[File:Azelf.png|50px]] [[Azelf]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 483 || [[File:Dialga.png|50px]] [[Dialga]] ||  Not available in the wild
+|-
+| 484 || [[File:Palkia.png|50px]] [[Palkia]] ||  Not available in the wild
+|-
+| 485 || [[File:Heatran.png|50px]] [[Heatran]] ||  Not available in the wild
+|-
+| 486 || [[File:Regigigas.png|50px]] [[Regigigas]] ||  Not available in the wild
+|-
+| 487 || [[File:Giratina-altered.png|50px]] [[Giratina]] ||  Not available in the wild
+|-
+| 488 || [[File:Cresselia.png|50px]] [[Cresselia]] ||  Not available in the wild
+|-
+| 489 || [[File:Phione.png|50px]] [[Phione]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 490 || [[File:Manaphy.png|50px]] [[Manaphy]] ||  Not available in the wild
+|-
+| 491 || [[File:Darkrai.png|50px]] [[Darkrai]] ||  Not available in the wild
+|-
+| 492 || [[File:Shaymin-land.png|50px]] [[Shaymin]] ||  Not available in the wild
+|-
+| 493 || [[File:Arceus.png|50px]] [[Arceus]] ||  Not available in the wild
+|-
+| 494 || [[File:Victini.png|50px]] [[Victini]] ||  Not available in the wild
+|-
+| 495 || [[File:Snivy.png|50px]] [[Snivy]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Retire Park (5%)
+|-
+| 496 || [[File:Servine.png|50px]] [[Servine]] ||  Not available in the wild
+|-
+| 497 || [[File:Serperior.png|50px]] [[Serperior]] ||  Not available in the wild
+|-
+| 498 || [[File:Tepig.png|50px]] [[Tepig]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Lugano City (Center) (5%)
+|-
+| 499 || [[File:Pignite.png|50px]] [[Pignite]] ||  Not available in the wild
+|-
+| 500 || [[File:Emboar.png|50px]] [[Emboar]] ||  Not available in the wild
+|-
+| 501 || [[File:Oshawott.png|50px]] [[Oshawott]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Royal Palace Garden (30%)
+|-
+| 502 || [[File:Dewott.png|50px]] [[Dewott]] ||  Not available in the wild
+|-
+| 503 || [[File:Samurott.png|50px]] [[Samurott]] ||  Not available in the wild
+|-
+| 503 || [[File:Hisuian Samurott.png|50px]] [[Hisuian Samurott]] ||  Not available in the wild
+|-
+| 504 || [[File:Patrat.png|50px]] [[Patrat]] ||  Route 2 (10%)
+|-
+| 505 || [[File:Watchog.png|50px]] [[Watchog]] ||  Not available in the wild
+|-
+| 506 || [[File:Lillipup.png|50px]] [[Lillipup]] || [[Gacha]]
+Route 3 (15%)
+|-
+| 507 || [[File:Herdier.png|50px]] [[Herdier]] ||  Garden of Dreams (5%)
+|-
+| 508 || [[File:Stoutland.png|50px]] [[Stoutland]] ||  Royal Palace Garden (10%)
+|-
+| 509 || [[File:Purrloin.png|50px]] [[Purrloin]] ||  Not available in the wild
+|-
+| 510 || [[File:Liepard.png|50px]] [[Liepard]] ||  Lugano City (Center) (10%), Route 16 (10%)
+|-
+| 511 || [[File:Pansage.png|50px]] [[Pansage]] ||  Not available in the wild
+|-
+| 512 || [[File:Simisage.png|50px]] [[Simisage]] ||  SELVA TUETUE (10%)
+|-
+| 513 || [[File:Pansear.png|50px]] [[Pansear]] ||  Garden of Dreams (5%), Route 10 (10%), Route 9 (10%)
+|-
+| 514 || [[File:Simisear.png|50px]] [[Simisear]] ||  Not available in the wild
+|-
+| 515 || [[File:Panpour.png|50px]] [[Panpour]] ||  Garden of Dreams (5%)
+|-
+| 516 || [[File:Simipour.png|50px]] [[Simipour]] ||  Not available in the wild
+|-
+| 517 || [[File:Munna.png|50px]] [[Munna]] || [[Gacha]]
+Not available in the wild
+|-
+| 518 || [[File:Musharna.png|50px]] [[Musharna]] ||  Celestial Tower Ext. (10%)
+|-
+| 519 || [[File:Pidove.png|50px]] [[Pidove]] ||  Route 5 (10%)
+|-
+| 520 || [[File:Tranquill.png|50px]] [[Tranquill]] ||  Route 12 (10%), Route 14 (10%)
+|-
+| 521 || [[File:Unfezant.png|50px]] [[Unfezant]] ||  Celestial Tower Ext. (10%)
+|-
+| 522 || [[File:Blitzle.png|50px]] [[Blitzle]] || [[Gacha]]
+Route 14 (10%), Route 8 (5%)
+|-
+| 523 || [[File:Zebstrika.png|50px]] [[Zebstrika]] ||  Not available in the wild
+|-
+| 524 || [[File:Roggenrola.png|50px]] [[Roggenrola]] || [[Gacha]]
+Finch Cave (10%)
+|-
+| 525 || [[File:Boldore.png|50px]] [[Boldore]] ||  Mystic Cave (10%), Talegalo Cave (10%)
+|-
+| 526 || [[File:Gigalith.png|50px]] [[Gigalith]] ||  Squawk Cave (10%)
+|-
+| 527 || [[File:Woobat.png|50px]] [[Woobat]] ||  Finch Cave (10%), Relic Cave (Floor -1) (10%), Relic Cave (Floor -2) (10%), Relic Cave (Floor 0) (10%), Relic Cave (Floor 1) (10%), Relic Cave (Floor 2) (10%)
+|-
+| 528 || [[File:Swoobat.png|50px]] [[Swoobat]] ||  Not available in the wild
+|-
+| 529 || [[File:Drilbur.png|50px]] [[Drilbur]] || [[Gacha]]
+Mysterious Cave (10%), Relic Cave (Floor -1) (5%), Relic Cave (Floor -2) (5%), Relic Cave (Floor 0) (5%), Relic Cave (Floor 1) (5%), Relic Cave (Floor 2) (5%)
+|-
+| 530 || [[File:Excadrill.png|50px]] [[Excadrill]] ||  Squawk Cave (10%), Talegalo Cave (10%)
+|-
+| 531 || [[File:Audino.png|50px]] [[Audino]] || [[Gacha]]
+Not available in the wild
+|-
+| 532 || [[File:Timburr.png|50px]] [[Timburr]] || [[Gacha]]
+Mysterious Cave (10%), Relic Cave (Floor -1) (10%), Relic Cave (Floor -2) (10%), Relic Cave (Floor 0) (10%), Relic Cave (Floor 1) (10%), Relic Cave (Floor 2) (10%)
+|-
+| 533 || [[File:Gurdurr.png|50px]] [[Gurdurr]] ||  Not available in the wild
+|-
+| 534 || [[File:Conkeldurr.png|50px]] [[Conkeldurr]] ||  Not available in the wild
+|-
+| 535 || [[File:Tympole.png|50px]] [[Tympole]] || [[Gacha]]
+Route 6 (Norte) (10%), Route 6 (Sur) (10%)
+|-
+| 536 || [[File:Palpitoad.png|50px]] [[Palpitoad]] ||  Route 15 (20%), Route 17 (20%), Route 18 (20%)
+|-
+| 537 || [[File:Seismitoad.png|50px]] [[Seismitoad]] ||  Not available in the wild
+|-
+| 538 || [[File:Throh.png|50px]] [[Throh]] || [[Gacha]]
+Not available in the wild
+|-
+| 539 || [[File:Sawk.png|50px]] [[Sawk]] || [[Gacha]]
+Not available in the wild
+|-
+| 540 || [[File:Sewaddle.png|50px]] [[Sewaddle]] || [[Gacha]]
+Greenfinch Forest (5%)
+|-
+| 541 || [[File:Swadloon.png|50px]] [[Swadloon]] ||  JUNGLA CAMACHUELO (10%)
+|-
+| 542 || [[File:Leavanny.png|50px]] [[Leavanny]] ||  Lost Forest (5%)
+|-
+| 543 || [[File:Venipede.png|50px]] [[Venipede]] || [[Gacha]]
+Greenfinch Forest (5%)
+|-
+| 544 || [[File:Whirlipede.png|50px]] [[Whirlipede]] ||  Forest of Time (5%), JUNGLA CAMACHUELO (10%), SELVA TUETUE (10%)
+|-
+| 545 || [[File:Scolipede.png|50px]] [[Scolipede]] ||  Not available in the wild
+|-
+| 546 || [[File:Cottonee.png|50px]] [[Cottonee]] || [[Gacha]]
+Route 10 (5%), Route 9 (5%)
+|-
+| 547 || [[File:Whimsicott.png|50px]] [[Whimsicott]] ||  Royal Palace Garden (10%)
+|-
+| 548 || [[File:Petilil.png|50px]] [[Petilil]] || [[Gacha]]
+Route 10 (5%), Route 9 (5%)
+|-
+| 549 || [[File:Lilligant.png|50px]] [[Lilligant]] ||  Royal Palace Garden (10%), Floral Pass (10%), Floral Pass (10%)
+|-
+| 550 || [[File:Basculin-red.png|50px]] [[Basculin]] || [[Gacha]]
+Lost Forest (20%), Forest of Memories (20%), Floral Pass (20%), Retire Park (20%), Floral Pass (20%), Blackbird Town (20%), Route 11 (20%), Route 15 (20%), Route 16 (20%), Route 17 (20%), Route 18 (20%), Celestial Tower Ext. (20%)
+|-
+| 551 || [[File:Sandile.png|50px]] [[Sandile]] || [[Gacha]]
+Not available in the wild
+|-
+| 552 || [[File:Krokorok.png|50px]] [[Krokorok]] ||  Not available in the wild
+|-
+| 553 || [[File:Krookodile.png|50px]] [[Krookodile]] ||  Not available in the wild
+|-
+| 554 || [[File:Darumaka.png|50px]] [[Darumaka]] ||  Route 10 (10%)
+|-
+| 554 || [[File:Galarian Darumaka.png|50px]] [[Galarian Darumaka]] || [[Gacha]]
+Not available in the wild
+|-
+| 555 || [[File:Darmanitan.png|50px]] [[Darmanitan]] ||  Not available in the wild
+|-
+| 555 || [[File:Galarian Darmanitan.png|50px]] [[Galarian Darmanitan]] ||  Not available in the wild
+|-
+| 556 || [[File:Maractus.png|50px]] [[Maractus]] || [[Gacha]]
+Not available in the wild
+|-
+| 557 || [[File:Dwebble.png|50px]] [[Dwebble]] ||  Nymph City (20%), Toucan Town (30%)
+|-
+| 558 || [[File:Crustle.png|50px]] [[Crustle]] ||  Talegalo Cave (10%)
+|-
+| 559 || [[File:Scraggy.png|50px]] [[Scraggy]] || [[Gacha]]
+Lugano City (Center) (10%)
+|-
+| 560 || [[File:Scrafty.png|50px]] [[Scrafty]] ||  Not available in the wild
+|-
+| 561 || [[File:Sigilyph.png|50px]] [[Sigilyph]] || [[Gacha]]
+Celestial Tower Floor (10%)
+|-
+| 562 || [[File:Yamask.png|50px]] [[Yamask]] ||  Forest of Memories (10%), Celestial Tower Floor (10%)
+|-
+| 562 || [[File:Galarian Yamask.png|50px]] [[Galarian Yamask]] || [[Gacha]]
+Not available in the wild
+|-
+| 563 || [[File:Cofagrigus.png|50px]] [[Cofagrigus]] ||  Not available in the wild
+|-
+| 564 || [[File:Tirtouga.png|50px]] [[Tirtouga]] ||  Not available in the wild
+|-
+| 565 || [[File:Carracosta.png|50px]] [[Carracosta]] ||  Not available in the wild
+|-
+| 566 || [[File:Archen.png|50px]] [[Archen]] ||  Not available in the wild
+|-
+| 567 || [[File:Archeops.png|50px]] [[Archeops]] ||  Not available in the wild
+|-
+| 568 || [[File:Trubbish.png|50px]] [[Trubbish]] ||  Lugano City Sewers (10%)
+|-
+| 569 || [[File:Garbodor.png|50px]] [[Garbodor]] ||  Not available in the wild
+|-
+| 570 || [[File:Zorua.png|50px]] [[Zorua]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Akebia Prison (Floor -2) (10%), Lugano City (Center) (10%), Celestial Tower Ext. (10%)
+|-
+| 570 || [[File:Hisuian Zorua.png|50px]] [[Hisuian Zorua]] ||  Route 16 (10%), Route 19 (10%), Cemetery (10%)
+|-
+| 571 || [[File:Zoroark.png|50px]] [[Zoroark]] ||  Quack Path (5%)
+|-
+| 571 || [[File:Hisuian Zoroark.png|50px]] [[Hisuian Zoroark]] ||  Not available in the wild
+|-
+| 572 || [[File:Minccino.png|50px]] [[Minccino]] || [[Gacha]]
+Garden of Dreams (5%)
+|-
+| 573 || [[File:Cinccino.png|50px]] [[Cinccino]] ||  Not available in the wild
+|-
+| 574 || [[File:Gothita.png|50px]] [[Gothita]] || [[Gacha]]
+Not available in the wild
+|-
+| 575 || [[File:Gothorita.png|50px]] [[Gothorita]] ||  Celestial Tower Ext. (10%)
+|-
+| 576 || [[File:Gothitelle.png|50px]] [[Gothitelle]] ||  Not available in the wild
+|-
+| 577 || [[File:Solosis.png|50px]] [[Solosis]] || [[Gacha]]
+Not available in the wild
+|-
+| 578 || [[File:Duosion.png|50px]] [[Duosion]] ||  Route 19 (5%)
+|-
+| 579 || [[File:Reuniclus.png|50px]] [[Reuniclus]] ||  Not available in the wild
+|-
+| 580 || [[File:Ducklett.png|50px]] [[Ducklett]] || [[Gacha]]
+Route 13 (20%)
+|-
+| 581 || [[File:Swanna.png|50px]] [[Swanna]] ||  Retire Park (10%), Route 21 (20%), Route 21 (40%), Route 21 (pt 2) (20%), Route 21 (pt 2) (40%)
+|-
+| 582 || [[File:Vanillite.png|50px]] [[Vanillite]] || [[Gacha]]
+Not available in the wild
+|-
+| 583 || [[File:Vanillish.png|50px]] [[Vanillish]] ||  Not available in the wild
+|-
+| 584 || [[File:Vanilluxe.png|50px]] [[Vanilluxe]] ||  Not available in the wild
+|-
+| 585 || [[File:Deerling.png|50px]] [[Deerling]] ||  Route 15 (10%)
+|-
+| 586 || [[File:Sawsbuck.png|50px]] [[Sawsbuck]] ||  Not available in the wild
+|-
+| 587 || [[File:Emolga.png|50px]] [[Emolga]] || [[Gacha]]
+Retire Park (10%)
+|-
+| 588 || [[File:Karrablast.png|50px]] [[Karrablast]] ||  Route 7 (5%)
+|-
+| 589 || [[File:Escavalier.png|50px]] [[Escavalier]] ||  Royal Palace Garden (10%)
+|-
+| 590 || [[File:Foongus.png|50px]] [[Foongus]] || [[Gacha]]
+Route 6 (Norte) (10%), Route 6 (Sur) (10%)
+|-
+| 591 || [[File:Amoonguss.png|50px]] [[Amoonguss]] ||  Quack Path (5%)
+|-
+| 592 || [[File:Frillish.png|50px]] [[Frillish]] ||  Lost Forest (20%), Lost Forest (50%), Forest of Memories (20%), Forest of Memories (50%), Retire Park (50%), Floral Pass (50%), Blackbird Town (20%), Blackbird Town (50%), Route 16 (20%), Route 16 (50%), Route 4 (25%), Celestial Tower Ext. (20%), Celestial Tower Ext. (50%)
+|-
+| 593 || [[File:Jellicent.png|50px]] [[Jellicent]] ||  Lugano City Sewers (20%), Floral Pass (50%), Floral Pass (50%), Route 19 (20%), Route 19 (50%)
+|-
+| 594 || [[File:Alomomola.png|50px]] [[Alomomola]] ||  Toucan Town (10%)
+|-
+| 595 || [[File:Joltik.png|50px]] [[Joltik]] || [[Gacha]]
+Magnetic Cave (10%)
+|-
+| 596 || [[File:Galvantula.png|50px]] [[Galvantula]] ||  Not available in the wild
+|-
+| 597 || [[File:Ferroseed.png|50px]] [[Ferroseed]] || [[Gacha]]
+Magnetic Cave (10%)
+|-
+| 598 || [[File:Ferrothorn.png|50px]] [[Ferrothorn]] ||  Talegalo Cave (10%)
+|-
+| 599 || [[File:Klink.png|50px]] [[Klink]] || [[Gacha]]
+Mystic Cave (10%), Mysterious Cave (10%), Magnetic Cave (10%)
+|-
+| 600 || [[File:Klang.png|50px]] [[Klang]] ||  Not available in the wild
+|-
+| 601 || [[File:Klinklang.png|50px]] [[Klinklang]] ||  Not available in the wild
+|-
+| 602 || [[File:Tynamo.png|50px]] [[Tynamo]] || [[Gacha]]
+Magnetic Cave (10%)
+|-
+| 603 || [[File:Eelektrik.png|50px]] [[Eelektrik]] ||  Dr. Vega's Laboratory (10%)
+|-
+| 604 || [[File:Eelektross.png|50px]] [[Eelektross]] ||  Not available in the wild
+|-
+| 605 || [[File:Elgyem.png|50px]] [[Elgyem]] || [[Gacha]]
+Dr. Vega's Laboratory (10%)
+|-
+| 606 || [[File:Beheeyem.png|50px]] [[Beheeyem]] ||  Not available in the wild
+|-
+| 607 || [[File:Litwick.png|50px]] [[Litwick]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Forest of Memories (5%)
+[[Gift Pokemon Locations|Forest of Memories (Gift)]]
+|-
+| 608 || [[File:Lampent.png|50px]] [[Lampent]] ||  Route 16 (10%)
+|-
+| 609 || [[File:Chandelure.png|50px]] [[Chandelure]] ||  Not available in the wild
+|-
+| 610 || [[File:Axew.png|50px]] [[Axew]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Magnetic Cave (5%)
+|-
+| 611 || [[File:Fraxure.png|50px]] [[Fraxure]] ||  Not available in the wild
+|-
+| 612 || [[File:Haxorus.png|50px]] [[Haxorus]] ||  Not available in the wild
+|-
+| 613 || [[File:Cubchoo.png|50px]] [[Cubchoo]] || [[Gacha]]
+Not available in the wild
+|-
+| 614 || [[File:Beartic.png|50px]] [[Beartic]] ||  Not available in the wild
+|-
+| 615 || [[File:Cryogonal.png|50px]] [[Cryogonal]] ||  Not available in the wild
+|-
+| 616 || [[File:Shelmet.png|50px]] [[Shelmet]] ||  Not available in the wild
+|-
+| 617 || [[File:Accelgor.png|50px]] [[Accelgor]] ||  Royal Palace Garden (10%)
+|-
+| 618 || [[File:Stunfisk.png|50px]] [[Stunfisk]] ||  Magnetic Cave (20%), Magnetic Cave (60%), Route 17 (20%), Route 18 (20%)
+|-
+| 618 || [[File:Galarian Stunfisk.png|50px]] [[Galarian Stunfisk]] || [[Gacha]]
+Talegalo Cave (10%)
+|-
+| 619 || [[File:Mienfoo.png|50px]] [[Mienfoo]] || [[Gacha]]
+Not available in the wild
+|-
+| 620 || [[File:Mienshao.png|50px]] [[Mienshao]] ||  Not available in the wild
+|-
+| 621 || [[File:Druddigon.png|50px]] [[Druddigon]] || [[Gacha]]
+Celestial Tower Floor (5%)
+|-
+| 622 || [[File:Golett.png|50px]] [[Golett]] || [[Gacha]]
+Celestial Tower Ext. (15%), Celestial Tower Floor (10%)
+|-
+| 623 || [[File:Golurk.png|50px]] [[Golurk]] ||  Not available in the wild
+|-
+| 624 || [[File:Pawniard.png|50px]] [[Pawniard]] || [[Gacha]]
+Lugano City (Center) (10%)
+|-
+| 625 || [[File:Bisharp.png|50px]] [[Bisharp]] ||  Not available in the wild
+|-
+| 626 || [[File:Bouffalant.png|50px]] [[Bouffalant]] ||  Route 21 (5%), Route 21 (pt 2) (5%)
+|-
+| 627 || [[File:Rufflet.png|50px]] [[Rufflet]] || [[Gacha]]
+Not available in the wild
+|-
+| 628 || [[File:Braviary.png|50px]] [[Braviary]] ||  Not available in the wild
+|-
+| 629 || [[File:Vullaby.png|50px]] [[Vullaby]] || [[Gacha]]
+Not available in the wild
+|-
+| 630 || [[File:Mandibuzz.png|50px]] [[Mandibuzz]] ||  Not available in the wild
+|-
+| 631 || [[File:Heatmor.png|50px]] [[Heatmor]] || [[Gacha]]
+Tanager Cave (10%)
+|-
+| 632 || [[File:Durant.png|50px]] [[Durant]] || [[Gacha]]
+Magnetic Cave (10%), Mystic Cave (5%)
+|-
+| 633 || [[File:Deino.png|50px]] [[Deino]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Squawk Cave (10%)
+|-
+| 634 || [[File:Zweilous.png|50px]] [[Zweilous]] ||  Not available in the wild
+|-
+| 635 || [[File:Hydreigon.png|50px]] [[Hydreigon]] ||  Not available in the wild
+|-
+| 636 || [[File:Larvesta.png|50px]] [[Larvesta]] ||  Not available in the wild
+|-
+| 637 || [[File:Volcarona.png|50px]] [[Volcarona]] ||  Not available in the wild
+|-
+| 638 || [[File:Cobalion.png|50px]] [[Cobalion]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 639 || [[File:Terrakion.png|50px]] [[Terrakion]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 640 || [[File:Virizion.png|50px]] [[Virizion]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 641 || [[File:Tornadus.png|50px]] [[Tornadus]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 642 || [[File:Thundurus.png|50px]] [[Thundurus]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 643 || [[File:Reshiram.png|50px]] [[Reshiram]] ||  Not available in the wild
+|-
+| 644 || [[File:Zekrom.png|50px]] [[Zekrom]] ||  Not available in the wild
+|-
+| 645 || [[File:Landorus.png|50px]] [[Landorus]] ||  Not available in the wild
+|-
+| 646 || [[File:Kyurem.png|50px]] [[Kyurem]] ||  Not available in the wild
+|-
+| 646 || [[File:Black Kyurem.png|50px]] [[Black Kyurem]] ||  Not available in the wild
+|-
+| 646 || [[File:White Kyurem.png|50px]] [[White Kyurem]] ||  Not available in the wild
+|-
+| 647 || [[File:Keldeo.png|50px]] [[Keldeo]] ||  Not available in the wild
+|-
+| 648 || [[File:Meloetta.png|50px]] [[Meloetta]] ||  Not available in the wild
+|-
+| 649 || [[File:Genesect.png|50px]] [[Genesect]] ||  Not available in the wild
+|-
+| 650 || [[File:Chespin.png|50px]] [[Chespin]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Royal Palace Garden (10%)
+|-
+| 651 || [[File:Quilladin.png|50px]] [[Quilladin]] ||  Not available in the wild
+|-
+| 652 || [[File:Chesnaught.png|50px]] [[Chesnaught]] ||  Not available in the wild
+|-
+| 653 || [[File:Fennekin.png|50px]] [[Fennekin]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Royal Palace Garden (10%)
+|-
+| 654 || [[File:Braixen.png|50px]] [[Braixen]] ||  Not available in the wild
+|-
+| 655 || [[File:Delphox.png|50px]] [[Delphox]] ||  Not available in the wild
+|-
+| 656 || [[File:Froakie.png|50px]] [[Froakie]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Royal Palace Garden (20%)
+|-
+| 657 || [[File:Frogadier.png|50px]] [[Frogadier]] ||  Not available in the wild
+|-
+| 658 || [[File:Greninja.png|50px]] [[Greninja]] ||  Not available in the wild
+|-
+| 659 || [[File:Bunnelby.png|50px]] [[Bunnelby]] ||  Route 6 (10%), Route 6 (Norte) (10%)
+|-
+| 660 || [[File:Diggersby.png|50px]] [[Diggersby]] ||  Not available in the wild
+|-
+| 661 || [[File:Fletchling.png|50px]] [[Fletchling]] ||  Route 3 (20%)
+|-
+| 662 || [[File:Fletchinder.png|50px]] [[Fletchinder]] ||  Not available in the wild
+|-
+| 663 || [[File:Talonflame.png|50px]] [[Talonflame]] ||  Not available in the wild
+|-
+| 664 || [[File:Scatterbug.png|50px]] [[Scatterbug]] ||  Greenfinch Forest (5%)
+|-
+| 665 || [[File:Spewpa.png|50px]] [[Spewpa]] ||  Not available in the wild
+|-
+| 666 || [[File:Vivillon.png|50px]] [[Vivillon]] ||  Forest of Time (5%), JUNGLA CAMACHUELO (10%), SELVA TUETUE (10%)
+|-
+| 667 || [[File:Litleo.png|50px]] [[Litleo]] || [[Gacha]]
+Route 10 (10%), Route 9 (10%)
+|-
+| 668 || [[File:Pyroar.png|50px]] [[Pyroar]] ||  Not available in the wild
+|-
+| 669 || [[File:Flabebe.png|50px]] [[Flabébé]] ||  Not available in the wild
+|-
+| 670 || [[File:Floette.png|50px]] [[Floette]] ||  Not available in the wild
+|-
+| 671 || [[File:Florges.png|50px]] [[Florges]] ||  Floral Pass (10%), Floral Pass (10%)
+|-
+| 672 || [[File:Skiddo.png|50px]] [[Skiddo]] || [[Gacha]]
+Not available in the wild
+|-
+| 673 || [[File:Gogoat.png|50px]] [[Gogoat]] ||  Route 21 (10%), Route 21 (pt 2) (10%)
+|-
+| 674 || [[File:Pancham.png|50px]] [[Pancham]] || [[Gacha]]
+Route 7 (10%)
+|-
+| 675 || [[File:Pangoro.png|50px]] [[Pangoro]] ||  Not available in the wild
+|-
+| 676 || [[File:Furfrou.png|50px]] [[Furfrou]] || [[Gacha]]
+Lugano City (Center) (15%), Garden of Dreams (5%), Retire Park (5%)
+|-
+| 677 || [[File:Espurr.png|50px]] [[Espurr]] || [[Gacha]]
+Route 13 (10%)
+|-
+| 678 || [[File:Meowstic-male.png|50px]] [[Meowstic]] ||  Not available in the wild
+|-
+| 679 || [[File:Honedge.png|50px]] [[Honedge]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Celestial Tower Ext. (10%)
+|-
+| 680 || [[File:Doublade.png|50px]] [[Doublade]] ||  Not available in the wild
+|-
+| 681 || [[File:Aegislash.png|50px]] [[Aegislash]] ||  Not available in the wild
+|-
+| 682 || [[File:Spritzee.png|50px]] [[Spritzee]] || [[Gacha]]
+Route 14 (10%)
+|-
+| 683 || [[File:Aromatisse.png|50px]] [[Aromatisse]] ||  Not available in the wild
+|-
+| 684 || [[File:Swirlix.png|50px]] [[Swirlix]] || [[Gacha]]
+Sanctuary of Music previo (10%)
+|-
+| 685 || [[File:Slurpuff.png|50px]] [[Slurpuff]] ||  Not available in the wild
+|-
+| 686 || [[File:Inkay.png|50px]] [[Inkay]] || [[Gacha]]
+Route 15 (10%), Route 16 (10%)
+|-
+| 687 || [[File:Malamar.png|50px]] [[Malamar]] ||  Not available in the wild
+|-
+| 688 || [[File:Binacle.png|50px]] [[Binacle]] || [[Gacha]]
+Mystic Cave (10%), Sacred Cave (10%)
+|-
+| 689 || [[File:Barbaracle.png|50px]] [[Barbaracle]] ||  Talegalo Cave (50%), Talegalo Cave (60%)
+|-
+| 690 || [[File:Skrelp.png|50px]] [[Skrelp]] || [[Gacha]]
+Lugano City Sewers (20%), Lugano City Sewers (50%), Southern Island (20%), Southern Island 2 (20%)
+|-
+| 691 || [[File:Dragalge.png|50px]] [[Dragalge]] ||  Not available in the wild
+|-
+| 692 || [[File:Clauncher.png|50px]] [[Clauncher]] || [[Gacha]]
+Forest of Time (20%), Forbe City (20%), Nymph City (10%), Magnetic Cave (20%), Garden of Dreams (20%), Nightingale Town (20%), Route 12 (20%), Route 13 (20%), Route 14 (20%), Sanctuary of Music (30%)
+|-
+| 693 || [[File:Clawitzer.png|50px]] [[Clawitzer]] ||  Southern Island (20%), Southern Island 2 (20%)
+|-
+| 694 || [[File:Helioptile.png|50px]] [[Helioptile]] || [[Gacha]]
+Not available in the wild
+|-
+| 695 || [[File:Heliolisk.png|50px]] [[Heliolisk]] ||  Dr. Vega's Laboratory (10%)
+|-
+| 696 || [[File:Tyrunt.png|50px]] [[Tyrunt]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 697 || [[File:Tyrantrum.png|50px]] [[Tyrantrum]] ||  Not available in the wild
+|-
+| 698 || [[File:Amaura.png|50px]] [[Amaura]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 699 || [[File:Aurorus.png|50px]] [[Aurorus]] ||  Not available in the wild
+|-
+| 700 || [[File:Sylveon.png|50px]] [[Sylveon]] ||  Not available in the wild
+|-
+| 701 || [[File:Hawlucha.png|50px]] [[Hawlucha]] ||  Not available in the wild
+|-
+| 702 || [[File:Dedenne.png|50px]] [[Dedenne]] ||  Route 13 (10%), Sanctuary of Music previo (10%)
+|-
+| 703 || [[File:Carbink.png|50px]] [[Carbink]] ||  Algorithm Cave (50%)
+|-
+| 704 || [[File:Goomy.png|50px]] [[Goomy]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Route 19 (5%)
+|-
+| 705 || [[File:Sliggoo.png|50px]] [[Sliggoo]] ||  Not available in the wild
+|-
+| 706 || [[File:Goodra.png|50px]] [[Goodra]] ||  Not available in the wild
+|-
+| 707 || [[File:Klefki.png|50px]] [[Klefki]] || [[Gacha]]
+Route 15 (5%)
+|-
+| 708 || [[File:Phantump.png|50px]] [[Phantump]] || [[Gacha]]
+Forest of Memories (10%)
+|-
+| 709 || [[File:Trevenant.png|50px]] [[Trevenant]] ||  Not available in the wild
+|-
+| 710 || [[File:Pumpkaboo.png|50px]] [[Pumpkaboo]] || [[Gacha]]
+Forest of Memories (10%)
+|-
+| 711 || [[File:Gourgeist.png|50px]] [[Gourgeist]] ||  Route 19 (10%), Cemetery (20%)
+|-
+| 712 || [[File:Bergmite.png|50px]] [[Bergmite]] || [[Gacha]]
+Not available in the wild
+|-
+| 713 || [[File:Avalugg.png|50px]] [[Avalugg]] ||  Not available in the wild
+|-
+| 714 || [[File:Noibat.png|50px]] [[Noibat]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Lugano City Sewers (5%)
+|-
+| 715 || [[File:Noivern.png|50px]] [[Noivern]] ||  Not available in the wild
+|-
+| 716 || [[File:Xerneas.png|50px]] [[Xerneas]] ||  Not available in the wild
+|-
+| 717 || [[File:Yveltal.png|50px]] [[Yveltal]] ||  Not available in the wild
+|-
+| 718 || [[File:Zygarde-50.png|50px]] [[Zygarde]] ||  Not available in the wild
+|-
+| 719 || [[File:Diancie.png|50px]] [[Diancie]] ||  Not available in the wild
+|-
+| 720 || [[File:Hoopa.png|50px]] [[Hoopa]] ||  Not available in the wild
+|-
+| 721 || [[File:Volcanion.png|50px]] [[Volcanion]] ||  Not available in the wild
+|-
+| 722 || [[File:Rowlet.png|50px]] [[Rowlet]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+JUNGLA CAMACHUELO (5%), SELVA TUETUE (5%)
+|-
+| 723 || [[File:Dartrix.png|50px]] [[Dartrix]] ||  Not available in the wild
+|-
+| 724 || [[File:Decidueye.png|50px]] [[Decidueye]] ||  Not available in the wild
+|-
+| 724 || [[File:Hisuian Decidueye.png|50px]] [[Hisuian Decidueye]] ||  Not available in the wild
+|-
+| 725 || [[File:Litten.png|50px]] [[Litten]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+[[Gift Pokemon Locations|Royal Family Palace (Gift)]]
+|-
+| 726 || [[File:Torracat.png|50px]] [[Torracat]] ||  Not available in the wild
+|-
+| 727 || [[File:Incineroar.png|50px]] [[Incineroar]] ||  Not available in the wild
+|-
+| 728 || [[File:Popplio.png|50px]] [[Popplio]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Southern Island (20%), Southern Island 2 (20%)
+|-
+| 729 || [[File:Brionne.png|50px]] [[Brionne]] ||  Not available in the wild
+|-
+| 730 || [[File:Primarina.png|50px]] [[Primarina]] ||  Not available in the wild
+|-
+| 731 || [[File:Pikipek.png|50px]] [[Pikipek]] ||  Route 1 (10%), Route 2 (10%), Route 9 (10%)
+|-
+| 732 || [[File:Trumbeak.png|50px]] [[Trumbeak]] ||  Not available in the wild
+|-
+| 733 || [[File:Toucannon.png|50px]] [[Toucannon]] ||  Southern Island (10%), Southern Island 2 (10%)
+|-
+| 734 || [[File:Yungoos.png|50px]] [[Yungoos]] ||  Route 9 (10%)
+|-
+| 735 || [[File:Gumshoos.png|50px]] [[Gumshoos]] ||  Not available in the wild
+|-
+| 736 || [[File:Grubbin.png|50px]] [[Grubbin]] || [[Gacha]]
+Route 1 (10%), Route 2 (10%)
+|-
+| 737 || [[File:Charjabug.png|50px]] [[Charjabug]] ||  JUNGLA CAMACHUELO (10%), Route 11 (5%)
+|-
+| 738 || [[File:Vikavolt.png|50px]] [[Vikavolt]] ||  Not available in the wild
+|-
+| 739 || [[File:Crabrawler.png|50px]] [[Crabrawler]] || [[Gacha]]
+Route 4 (5%)
+|-
+| 740 || [[File:Crabominable.png|50px]] [[Crabominable]] ||  Not available in the wild
+|-
+| 741 || [[File:Oricorio-baile.png|50px]] [[Oricorio]] ||  Not available in the wild
+|-
+| 742 || [[File:Cutiefly.png|50px]] [[Cutiefly]] || [[Gacha]]
+Garden of Dreams (5%), Route 10 (10%), Route 13 (10%), Sanctuary of Music previo (10%)
+|-
+| 743 || [[File:Ribombee.png|50px]] [[Ribombee]] ||  Route 21 (10%), Route 21 (pt 2) (10%)
+|-
+| 744 || [[File:Rockruff.png|50px]] [[Rockruff]] || [[Gacha]]
+Route 4 (5%)
+|-
+| 745 || [[File:Lycanroc-midday.png|50px]][[File:Lycanroc-midnight.png|50px]] [[Lycanroc]] ||  Not available in the wild
+|-
+| 746 || [[File:Wishiwashi.png|50px]] [[Wishiwashi]] ||  Southern Island (20%), Southern Island 2 (20%)
+|-
+| 747 || [[File:Mareanie.png|50px]] [[Mareanie]] || [[Gacha]]
+Toucan Town (10%)
+|-
+| 748 || [[File:Toxapex.png|50px]] [[Toxapex]] ||  Southern Island (5%), Southern Island 2 (5%)
+|-
+| 749 || [[File:Mudbray.png|50px]] [[Mudbray]] || [[Gacha]]
+Not available in the wild
+|-
+| 750 || [[File:Mudsdale.png|50px]] [[Mudsdale]] ||  Route 21 (10%), Route 21 (pt 2) (10%)
+|-
+| 751 || [[File:Dewpider.png|50px]] [[Dewpider]] || [[Gacha]]
+Mysterious Cave (20%), Garden of Dreams (20%), [[Player's Farm]] (10%), Route 11 (20%), Route 12 (20%), Route 13 (20%), Route 14 (20%), Route 15 (20%)
+|-
+| 752 || [[File:Araquanid.png|50px]] [[Araquanid]] ||  Lugano City Sewers (50%), Nightingale Town (10%), Route 19 (20%)
+|-
+| 753 || [[File:Fomantis.png|50px]] [[Fomantis]] || [[Gacha]]
+Route 7 (10%)
+|-
+| 754 || [[File:Lurantis.png|50px]] [[Lurantis]] ||  Not available in the wild
+|-
+| 755 || [[File:Morelull.png|50px]] [[Morelull]] || [[Gacha]]
+Route 13 (10%), Route 6 (Sur) (10%), Sanctuary of Music previo (10%)
+|-
+| 756 || [[File:Shiinotic.png|50px]] [[Shiinotic]] ||  Quack Path (10%)
+|-
+| 757 || [[File:Salandit.png|50px]] [[Salandit]] || [[Gacha]]
+Lugano City Sewers (10%)
+|-
+| 758 || [[File:Salazzle.png|50px]] [[Salazzle]] ||  Not available in the wild
+|-
+| 759 || [[File:Stufful.png|50px]] [[Stufful]] || [[Gacha]]
+Not available in the wild
+|-
+| 760 || [[File:Bewear.png|50px]] [[Bewear]] ||  Floral Pass (10%), Floral Pass (10%)
+|-
+| 761 || [[File:Bounsweet.png|50px]] [[Bounsweet]] || [[Gacha]]
+Route 4 (5%)
+|-
+| 762 || [[File:Steenee.png|50px]] [[Steenee]] ||  SELVA TUETUE (10%)
+|-
+| 763 || [[File:Tsareena.png|50px]] [[Tsareena]] ||  Southern Island 2 (10%)
+|-
+| 764 || [[File:Comfey.png|50px]] [[Comfey]] || [[Gacha]]
+Southern Island 2 (5%)
+|-
+| 765 || [[File:Oranguru.png|50px]] [[Oranguru]] ||  Not available in the wild
+|-
+| 766 || [[File:Passimian.png|50px]] [[Passimian]] ||  Not available in the wild
+|-
+| 767 || [[File:Wimpod.png|50px]] [[Wimpod]] || [[Gacha]]
+Lugano City Sewers (5%), Nymph City (10%), Route 17 (10%), Route 17 (50%), Route 18 (10%), Route 18 (50%)
+|-
+| 768 || [[File:Golisopod.png|50px]] [[Golisopod]] ||  Southern Island (5%), Southern Island 2 (5%)
+|-
+| 769 || [[File:Sandygast.png|50px]] [[Sandygast]] || [[Gacha]]
+Not available in the wild
+|-
+| 770 || [[File:Palossand.png|50px]] [[Palossand]] ||  Southern Island (10%), Southern Island 2 (10%)
+|-
+| 771 || [[File:Pyukumuku.png|50px]] [[Pyukumuku]] || [[Gacha]]
+Nymph City (10%), Toucan Town (5%)
+|-
+| 772 || [[File:Type-null.png|50px]] [[Type: Null]] ||  Not available in the wild
+|-
+| 773 || [[File:Silvally.png|50px]] [[Silvally]] ||  Not available in the wild
+|-
+| 774 || [[File:Minior.png|50px]] [[Minior]] || [[Gacha]]
+Mysterious Cave (5%)
+|-
+| 775 || [[File:Komala.png|50px]] [[Komala]] || [[Gacha]]
+Not available in the wild
+|-
+| 776 || [[File:Turtonator.png|50px]] [[Turtonator]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Tanager Cave (10%)
+|-
+| 777 || [[File:Togedemaru.png|50px]] [[Togedemaru]] || [[Gacha]]
+Not available in the wild
+|-
+| 778 || [[File:Mimikyu.png|50px]] [[Mimikyu]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Forest of Memories (5%)
+|-
+| 779 || [[File:Bruxish.png|50px]] [[Bruxish]] ||  Nymph City (30%), Southern Island (20%), Southern Island 2 (20%)
+|-
+| 780 || [[File:Drampa.png|50px]] [[Drampa]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 781 || [[File:Dhelmise.png|50px]] [[Dhelmise]] ||  Forest of Memories (5%)
+|-
+| 782 || [[File:Jangmo-o.png|50px]] [[Jangmo-o]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 783 || [[File:Hakamo-o.png|50px]] [[Hakamo-o]] ||  Not available in the wild
+|-
+| 784 || [[File:Kommo-o.png|50px]] [[Kommo-o]] ||  Not available in the wild
+|-
+| 785 || [[File:Tapu-koko.png|50px]] [[Tapu Koko]] ||  Not available in the wild
+|-
+| 786 || [[File:Tapu-lele.png|50px]] [[Tapu Lele]] ||  Not available in the wild
+|-
+| 787 || [[File:Tapu-bulu.png|50px]] [[Tapu Bulu]] ||  Not available in the wild
+|-
+| 788 || [[File:Tapu-fini.png|50px]] [[Tapu Fini]] ||  Not available in the wild
+|-
+| 789 || [[File:Cosmog.png|50px]] [[Cosmog]] ||  Not available in the wild
+|-
+| 790 || [[File:Cosmoem.png|50px]] [[Cosmoem]] ||  Not available in the wild
+|-
+| 791 || [[File:Solgaleo.png|50px]] [[Solgaleo]] ||  Not available in the wild
+|-
+| 792 || [[File:Lunala.png|50px]] [[Lunala]] ||  Not available in the wild
+|-
+| 793 || [[File:Nihilego.png|50px]] [[Nihilego]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 794 || [[File:Buzzwole.png|50px]] [[Buzzwole]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 795 || [[File:Pheromosa.png|50px]] [[Pheromosa]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 796 || [[File:Xurkitree.png|50px]] [[Xurkitree]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 797 || [[File:Celesteela.png|50px]] [[Celesteela]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 798 || [[File:Kartana.png|50px]] [[Kartana]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 799 || [[File:Guzzlord.png|50px]] [[Guzzlord]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 800 || [[File:Necrozma.png|50px]] [[Necrozma]] ||  Not available in the wild
+|-
+| 801 || [[File:Magearna.png|50px]] [[Magearna]] ||  Not available in the wild
+|-
+| 802 || [[File:Marshadow.png|50px]] [[Marshadow]] ||  Not available in the wild
+|-
+| 803 || [[File:Poipole.png|50px]] [[Poipole]] ||  Not available in the wild
+|-
+| 804 || [[File:Naganadel.png|50px]] [[Naganadel]] ||  Not available in the wild
+|-
+| 805 || [[File:Stakataka.png|50px]] [[Stakataka]] ||  Not available in the wild
+|-
+| 806 || [[File:Blacephalon.png|50px]] [[Blacephalon]] ||  Not available in the wild
+|-
+| 807 || [[File:Zeraora.png|50px]] [[Zeraora]] ||  Not available in the wild
+|-
+| 808 || [[File:Meltan.png|50px]] [[Meltan]] ||  Not available in the wild
+|-
+| 809 || [[File:Melmetal.png|50px]] [[Melmetal]] ||  Not available in the wild
+|-
+| 810 || [[File:Grookey.png|50px]] [[Grookey]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+SELVA TUETUE (5%)
+|-
+| 811 || [[File:Thwackey.png|50px]] [[Thwackey]] ||  Not available in the wild
+|-
+| 812 || [[File:Rillaboom.png|50px]] [[Rillaboom]] ||  Not available in the wild
+|-
+| 813 || [[File:Scorbunny.png|50px]] [[Scorbunny]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Route 21 (5%), Route 21 (pt 2) (5%)
+[[Gift Pokemon Locations|Blackbird Town (Gift)]]
+|-
+| 814 || [[File:Raboot.png|50px]] [[Raboot]] ||  Not available in the wild
+|-
+| 815 || [[File:Cinderace.png|50px]] [[Cinderace]] ||  Not available in the wild
+|-
+| 816 || [[File:Sobble.png|50px]] [[Sobble]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Lost Forest (30%)
+|-
+| 817 || [[File:Drizzile.png|50px]] [[Drizzile]] ||  Not available in the wild
+|-
+| 818 || [[File:Inteleon.png|50px]] [[Inteleon]] ||  Not available in the wild
+|-
+| 819 || [[File:Skwovet.png|50px]] [[Skwovet]] ||  Not available in the wild
+|-
+| 820 || [[File:Greedent.png|50px]] [[Greedent]] ||  Not available in the wild
+|-
+| 821 || [[File:Rookidee.png|50px]] [[Rookidee]] ||  Route 15 (10%), Route 6 (Sur) (10%)
+|-
+| 822 || [[File:Corvisquire.png|50px]] [[Corvisquire]] ||  Forest of Memories (10%), Celestial Tower Ext. (10%)
+|-
+| 823 || [[File:Corviknight.png|50px]] [[Corviknight]] ||  Route 19 (10%), Route 20 (10%)
+|-
+| 824 || [[File:Blipbug.png|50px]] [[Blipbug]] ||  Greenfinch Forest (5%)
+|-
+| 825 || [[File:Dottler.png|50px]] [[Dottler]] ||  Not available in the wild
+|-
+| 826 || [[File:Orbeetle.png|50px]] [[Orbeetle]] ||  Not available in the wild
+|-
+| 827 || [[File:Nickit.png|50px]] [[Nickit]] ||  Route 5 (10%)
+|-
+| 828 || [[File:Thievul.png|50px]] [[Thievul]] ||  Not available in the wild
+|-
+| 829 || [[File:Gossifleur.png|50px]] [[Gossifleur]] ||  Garden of Dreams (5%)
+|-
+| 830 || [[File:Eldegoss.png|50px]] [[Eldegoss]] ||  SELVA TUETUE (10%)
+|-
+| 831 || [[File:Wooloo.png|50px]] [[Wooloo]] ||  Route 6 (10%), Route 6 (Norte) (10%), Route 6 (Sur) (10%)
+|-
+| 832 || [[File:Dubwool.png|50px]] [[Dubwool]] ||  Route 21 (10%), Route 21 (pt 2) (10%)
+|-
+| 833 || [[File:Chewtle.png|50px]] [[Chewtle]] || [[Gacha]]
+Algorithm Cave (50%), Relic Cave (Floor -1) (25%), Relic Cave (Floor 1) (25%), Relic Cave (Floor 2) (25%), [[Player's Farm]] (10%)
+|-
+| 834 || [[File:Drednaw.png|50px]] [[Drednaw]] ||  Forbe City (10%), Mysterious Cave (20%)
+|-
+| 835 || [[File:Yamper.png|50px]] [[Yamper]] || [[Gacha]]
+Not available in the wild
+|-
+| 836 || [[File:Boltund.png|50px]] [[Boltund]] ||  Not available in the wild
+|-
+| 837 || [[File:Rolycoly.png|50px]] [[Rolycoly]] || [[Gacha]]
+Not available in the wild
+|-
+| 838 || [[File:Carkol.png|50px]] [[Carkol]] ||  Not available in the wild
+|-
+| 839 || [[File:Coalossal.png|50px]] [[Coalossal]] ||  Tanager Cave (10%)
+|-
+| 840 || [[File:Applin.png|50px]] [[Applin]] || [[Gacha]]
+JUNGLA CAMACHUELO (5%)
+|-
+| 841 || [[File:Flapple.png|50px]] [[Flapple]] ||  Not available in the wild
+|-
+| 842 || [[File:Appletun.png|50px]] [[Appletun]] ||  Not available in the wild
+|-
+| 843 || [[File:Silicobra.png|50px]] [[Silicobra]] || [[Gacha]]
+Not available in the wild
+|-
+| 844 || [[File:Sandaconda.png|50px]] [[Sandaconda]] ||  Not available in the wild
+|-
+| 845 || [[File:Cramorant.png|50px]] [[Cramorant]] ||  Lost Forest (70%)
+|-
+| 846 || [[File:Arrokuda.png|50px]] [[Arrokuda]] || [[Gacha]]
+[[Player's Farm]] (20%), Toucan Town (10%), Toucan Town (20%)
+|-
+| 847 || [[File:Barraskewda.png|50px]] [[Barraskewda]] ||  Not available in the wild
+|-
+| 848 || [[File:Toxel.png|50px]] [[Toxel]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Lugano City Sewers (5%)
+|-
+| 849 || [[File:Toxtricity.png|50px]] [[Toxtricity]] ||  Not available in the wild
+|-
+| 850 || [[File:Sizzlipede.png|50px]] [[Sizzlipede]] || [[Gacha]]
+Not available in the wild
+|-
+| 851 || [[File:Centiskorch.png|50px]] [[Centiskorch]] ||  Tanager Cave (10%)
+|-
+| 852 || [[File:Clobbopus.png|50px]] [[Clobbopus]] || [[Gacha]]
+Not available in the wild
+|-
+| 853 || [[File:Grapploct.png|50px]] [[Grapploct]] ||  Southern Island (5%), Southern Island 2 (5%)
+|-
+| 854 || [[File:Sinistea.png|50px]] [[Sinistea]] ||  Forest of Memories (10%)
+|-
+| 855 || [[File:Polteageist.png|50px]] [[Polteageist]] ||  Not available in the wild
+|-
+| 856 || [[File:Hatenna.png|50px]] [[Hatenna]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Route 13 (10%), Route 15 (10%), Sanctuary of Music previo (10%)
+|-
+| 857 || [[File:Hattrem.png|50px]] [[Hattrem]] ||  Not available in the wild
+|-
+| 858 || [[File:Hatterene.png|50px]] [[Hatterene]] ||  Quack Path (5%)
+|-
+| 859 || [[File:Impidimp.png|50px]] [[Impidimp]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Route 15 (10%)
+|-
+| 860 || [[File:Morgrem.png|50px]] [[Morgrem]] ||  Quack Path (5%)
+|-
+| 861 || [[File:Grimmsnarl.png|50px]] [[Grimmsnarl]] ||  Not available in the wild
+|-
+| 862 || [[File:Obstagoon.png|50px]] [[Obstagoon]] ||  Not available in the wild
+|-
+| 863 || [[File:Perrserker.png|50px]] [[Perrserker]] || [[Gacha]]
+Not available in the wild
+|-
+| 864 || [[File:Cursola.png|50px]] [[Cursola]] ||  Not available in the wild
+|-
+| 865 || [[File:Sirfetchd.png|50px]] [[Sirfetch'd]] ||  Not available in the wild
+|-
+| 866 || [[File:Mr-rime.png|50px]] [[Mr. Rime]] ||  Not available in the wild
+|-
+| 867 || [[File:Runerigus.png|50px]] [[Runerigus]] ||  Not available in the wild
+|-
+| 868 || [[File:Milcery.png|50px]] [[Milcery]] ||  Route 13 (10%)
+|-
+| 869 || [[File:Alcremie.png|50px]] [[Alcremie]] ||  Not available in the wild
+|-
+| 870 || [[File:Falinks.png|50px]] [[Falinks]] ||  Route 11 (5%), Route 12 (5%)
+|-
+| 871 || [[File:Pincurchin.png|50px]] [[Pincurchin]] || [[Gacha]]
+Southern Island (10%), Southern Island 2 (10%)
+|-
+| 872 || [[File:Snom.png|50px]] [[Snom]] || [[Gacha]]
+Not available in the wild
+|-
+| 873 || [[File:Frosmoth.png|50px]] [[Frosmoth]] ||  Not available in the wild
+|-
+| 874 || [[File:Stonjourner.png|50px]] [[Stonjourner]] ||  Not available in the wild
+|-
+| 875 || [[File:Eiscue-ice.png|50px]] [[Eiscue]] ||  Not available in the wild
+|-
+| 876 || [[File:Indeedee-female.png|50px]] [[Indeedee]] ||  Not available in the wild
+|-
+| 877 || [[File:Morpeko.png|50px]] [[Morpeko]] || [[Gacha]]
+Dr. Vega's Laboratory (10%)
+|-
+| 878 || [[File:Cufant.png|50px]] [[Cufant]] || [[Gacha]]
+Not available in the wild
+|-
+| 879 || [[File:Copperajah.png|50px]] [[Copperajah]] ||  Not available in the wild
+|-
+| 880 || [[File:Dracozolt.png|50px]] [[Dracozolt]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 881 || [[File:Arctozolt.png|50px]] [[Arctozolt]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 882 || [[File:Dracovish.png|50px]] [[Dracovish]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 883 || [[File:Arctovish.png|50px]] [[Arctovish]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 884 || [[File:Duraludon.png|50px]] [[Duraludon]] ||  Route 18 (5%)
+|-
+| 885 || [[File:Dreepy.png|50px]] [[Dreepy]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Celestial Tower Ext. (10%), Celestial Tower Floor (10%)
+|-
+| 886 || [[File:Drakloak.png|50px]] [[Drakloak]] ||  Not available in the wild
+|-
+| 887 || [[File:Dragapult.png|50px]] [[Dragapult]] ||  Not available in the wild
+|-
+| 888 || [[File:Zacian.png|50px]] [[Zacian]] ||  Not available in the wild
+|-
+| 889 || [[File:Zamazenta.png|50px]] [[Zamazenta]] ||  Not available in the wild
+|-
+| 890 || [[File:Eternatus.png|50px]] [[Eternatus]] ||  Not available in the wild
+|-
+| 891 || [[File:Kubfu.png|50px]] [[Kubfu]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 892 || [[File:Urshifu.png|50px]] [[Urshifu]] ||  Not available in the wild
+|-
+| 893 || [[File:Zarude.png|50px]] [[Zarude]] ||  Not available in the wild
+|-
+| 894 || [[File:Regieleki.png|50px]] [[Regieleki]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 895 || [[File:Regidrago.png|50px]] [[Regidrago]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 896 || [[File:Glastrier.png|50px]] [[Glastrier]] ||  Not available in the wild
+|-
+| 897 || [[File:Spectrier.png|50px]] [[Spectrier]] ||  Not available in the wild
+|-
+| 898 || [[File:Calyrex.png|50px]] [[Calyrex]] ||  Not available in the wild
+|-
+| 898 || [[File:Calyrex Ice.png|50px]] [[Calyrex Ice]] ||  Not available in the wild
+|-
+| 898 || [[File:Calyrex Shadow.png|50px]] [[Calyrex Shadow]] ||  Not available in the wild
+|-
+| 899 || [[File:Wyrdeer.png|50px]] [[Wyrdeer]] ||  Not available in the wild
+|-
+| 900 || [[File:Kleavor.png|50px]] [[Kleavor]] ||  Not available in the wild
+|-
+| 901 || [[File:Ursaluna.png|50px]] [[Ursaluna]] ||  Not available in the wild
+|-
+| 902 || [[File:Basculegion-male.png|50px]][[File:Basculegion-female.png|50px]] [[Basculegion]] ||  Not available in the wild
+|-
+| 903 || [[File:Sneasler.png|50px]] [[Sneasler]] ||  Not available in the wild
+|-
+| 904 || [[File:Overqwil.png|50px]] [[Overqwil]] ||  Not available in the wild
+|-
+| 905 || [[File:Enamorus.png|50px]] [[Enamorus]] ||  Not available in the wild
+|-
+| 906 || [[File:Sprigatito.png|50px]] [[Sprigatito]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+[[Gift Pokemon Locations|Finch Town (Trade)]]
+|-
+| 907 || [[File:Floragato.png|50px]] [[Floragato]] ||  Not available in the wild
+|-
+| 908 || [[File:Meowscarada.png|50px]] [[Meowscarada]] ||  Not available in the wild
+|-
+| 909 || [[File:Fuecoco.png|50px]] [[Fuecoco]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+[[Gift Pokemon Locations|Cardenal City Ship (Gift)]]
+|-
+| 910 || [[File:Crocalor.png|50px]] [[Crocalor]] ||  Not available in the wild
+|-
+| 911 || [[File:Skeledirge.png|50px]] [[Skeledirge]] ||  Not available in the wild
+|-
+| 912 || [[File:Quaxly.png|50px]] [[Quaxly]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+[[Player's Farm]] (20%)
+[[Gift Pokemon Locations|Route 8 (Gift)]]
+|-
+| 913 || [[File:Quaxwell.png|50px]] [[Quaxwell]] ||  Not available in the wild
+|-
+| 914 || [[File:Quaquaval.png|50px]] [[Quaquaval]] ||  Not available in the wild
+|-
+| 915 || [[File:Lechonk.png|50px]] [[Lechonk]] ||  Route 1 (10%), Route 2 (10%)
+|-
+| 916 || [[File:Oinkologne.png|50px]] [[Oinkologne]] ||  Route 18 (10%), Route 21 (10%), Route 21 (pt 2) (10%)
+|-
+| 917 || [[File:Tarountula.png|50px]] [[Tarountula]] ||  Greenfinch Forest (5%)
+|-
+| 918 || [[File:Spidops.png|50px]] [[Spidops]] ||  Not available in the wild
+|-
+| 919 || [[File:Nymble.png|50px]] [[Nymble]] ||  Greenfinch Forest (5%)
+|-
+| 920 || [[File:Lokix.png|50px]] [[Lokix]] ||  Not available in the wild
+|-
+| 921 || [[File:Pawmi.png|50px]] [[Pawmi]] || [[Gacha]]
+Route 2 (10%)
+|-
+| 922 || [[File:Pawmo.png|50px]] [[Pawmo]] ||  Route 18 (10%)
+|-
+| 923 || [[File:Pawmot.png|50px]] [[Pawmot]] ||  Not available in the wild
+|-
+| 924 || [[File:Tandemaus.png|50px]] [[Tandemaus]] ||  Not available in the wild
+|-
+| 925 || [[File:Maushold.png|50px]] [[Maushold]] ||  Not available in the wild
+|-
+| 926 || [[File:Fidough.png|50px]] [[Fidough]] || [[Gacha]]
+Route 8 (10%)
+|-
+| 927 || [[File:Dachsbun.png|50px]] [[Dachsbun]] ||  Not available in the wild
+|-
+| 928 || [[File:Smoliv.png|50px]] [[Smoliv]] ||  Route 1 (10%), Route 2 (10%)
+|-
+| 929 || [[File:Dolliv.png|50px]] [[Dolliv]] ||  Not available in the wild
+|-
+| 930 || [[File:Arboliva.png|50px]] [[Arboliva]] ||  Floral Pass (5%)
+|-
+| 931 || [[File:Squawkabilly-green-plumage.png|50px]] [[Squawkabilly]] ||  Route 10 (10%)
+|-
+| 932 || [[File:Nacli.png|50px]] [[Nacli]] || [[Gacha]]
+Mystic Cave (10%), Finch Cave (10%), Relic Cave (Floor -1) (10%), Relic Cave (Floor -2) (10%), Relic Cave (Floor 0) (10%), Relic Cave (Floor 1) (10%), Relic Cave (Floor 2) (10%)
+|-
+| 933 || [[File:Naclstack.png|50px]] [[Naclstack]] ||  Mystic Cave (10%)
+|-
+| 934 || [[File:Garganacl.png|50px]] [[Garganacl]] ||  Not available in the wild
+|-
+| 935 || [[File:Charcadet.png|50px]] [[Charcadet]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Route 8 (10%), Celestial Tower Floor (10%)
+|-
+| 936 || [[File:Armarouge.png|50px]] [[Armarouge]] ||  Not available in the wild
+|-
+| 937 || [[File:Ceruledge.png|50px]] [[Ceruledge]] ||  Not available in the wild
+|-
+| 938 || [[File:Tadbulb.png|50px]] [[Tadbulb]] || [[Gacha]]
+Route 6 (25%), Route 6 (Norte) (25%)
+|-
+| 939 || [[File:Bellibolt.png|50px]] [[Bellibolt]] ||  Route 17 (5%)
+|-
+| 940 || [[File:Wattrel.png|50px]] [[Wattrel]] ||  Route 4 (10%)
+|-
+| 941 || [[File:Kilowattrel.png|50px]] [[Kilowattrel]] ||  Route 12 (10%)
+|-
+| 942 || [[File:Maschiff.png|50px]] [[Maschiff]] || [[Gacha]]
+Route 5 (10%)
+|-
+| 943 || [[File:Mabosstiff.png|50px]] [[Mabosstiff]] ||  Not available in the wild
+|-
+| 944 || [[File:Shroodle.png|50px]] [[Shroodle]] ||  Route 6 (10%)
+|-
+| 945 || [[File:Grafaiai.png|50px]] [[Grafaiai]] ||  Route 18 (10%)
+|-
+| 946 || [[File:Bramblin.png|50px]] [[Bramblin]] || [[Gacha]]
+Not available in the wild
+|-
+| 947 || [[File:Brambleghast.png|50px]] [[Brambleghast]] ||  Not available in the wild
+|-
+| 948 || [[File:Toedscool.png|50px]] [[Toedscool]] || [[Gacha]]
+Route 6 (10%), Route 6 (Norte) (10%), Route 6 (Sur) (10%)
+|-
+| 949 || [[File:Toedscruel.png|50px]] [[Toedscruel]] ||  Talegalo Cave (10%), Route 18 (5%)
+|-
+| 950 || [[File:Klawf.png|50px]] [[Klawf]] ||  Talegalo Cave (10%)
+|-
+| 951 || [[File:Capsakid.png|50px]] [[Capsakid]] || [[Gacha]]
+Route 8 (10%)
+|-
+| 952 || [[File:Scovillain.png|50px]] [[Scovillain]] ||  Not available in the wild
+|-
+| 953 || [[File:Rellor.png|50px]] [[Rellor]] || [[Gacha]]
+Not available in the wild
+|-
+| 954 || [[File:Rabsca.png|50px]] [[Rabsca]] ||  Not available in the wild
+|-
+| 955 || [[File:Flittle.png|50px]] [[Flittle]] || [[Gacha]]
+Route 13 (10%)
+|-
+| 956 || [[File:Espathra.png|50px]] [[Espathra]] ||  Floral Pass (5%)
+|-
+| 957 || [[File:Tinkatink.png|50px]] [[Tinkatink]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Route 13 (10%), Sanctuary of Music previo (10%)
+|-
+| 958 || [[File:Tinkatuff.png|50px]] [[Tinkatuff]] ||  Not available in the wild
+|-
+| 959 || [[File:Tinkaton.png|50px]] [[Tinkaton]] ||  Floral Pass (10%), Floral Pass (10%)
+|-
+| 960 || [[File:Wiglett.png|50px]] [[Wiglett]] || [[Gacha]]
+Nymph City (15%), Toucan Town (15%)
+|-
+| 961 || [[File:Wugtrio.png|50px]] [[Wugtrio]] ||  Southern Island (10%), Southern Island 2 (10%)
+|-
+| 962 || [[File:Bombirdier.png|50px]] [[Bombirdier]] ||  Route 11 (5%), Route 12 (5%)
+|-
+| 963 || [[File:Finizen.png|50px]] [[Finizen]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Nymph City (10%), Toucan Town (10%), Route 11 (20%), Route 8 (15%), Route 9 (10%)
+|-
+| 964 || [[File:Palafin-zero.png|50px]] [[Palafin]] ||  Not available in the wild
+|-
+| 965 || [[File:Varoom.png|50px]] [[Varoom]] || [[Gacha]]
+Not available in the wild
+|-
+| 966 || [[File:Revavroom.png|50px]] [[Revavroom]] ||  Not available in the wild
+|-
+| 967 || [[File:Cyclizar.png|50px]] [[Cyclizar]] ||  Not available in the wild
+|-
+| 968 || [[File:Orthworm.png|50px]] [[Orthworm]] ||  Squawk Cave (10%)
+|-
+| 969 || [[File:Glimmet.png|50px]] [[Glimmet]] || [[Gacha]]
+Mystic Cave (5%)
+|-
+| 970 || [[File:Glimmora.png|50px]] [[Glimmora]] ||  Talegalo Cave (5%)
+|-
+| 971 || [[File:Greavard.png|50px]] [[Greavard]] || [[Gacha]]
+Route 16 (10%), Route 19 (10%), Cemetery (20%)
+|-
+| 972 || [[File:Houndstone.png|50px]] [[Houndstone]] ||  Not available in the wild
+|-
+| 973 || [[File:Flamigo.png|50px]] [[Flamigo]] ||  Not available in the wild
+|-
+| 974 || [[File:Cetoddle.png|50px]] [[Cetoddle]] || [[Gacha]]
+Not available in the wild
+|-
+| 975 || [[File:Cetitan.png|50px]] [[Cetitan]] ||  Not available in the wild
+|-
+| 976 || [[File:Veluza.png|50px]] [[Veluza]] ||  Lugano City Sewers (20%), Floral Pass (70%), Floral Pass (70%), Route 17 (50%), Route 19 (20%), Route 20 (40%)
+|-
+| 977 || [[File:Dondozo.png|50px]] [[Dondozo]] ||  Not available in the wild
+|-
+| 978 || [[File:Tatsugiri.png|50px]] [[Tatsugiri]] ||  Not available in the wild
+|-
+| 979 || [[File:Annihilape.png|50px]] [[Annihilape]] ||  Not available in the wild
+|-
+| 980 || [[File:Clodsire.png|50px]] [[Clodsire]] ||  Lugano City Sewers (50%)
+|-
+| 981 || [[File:Farigiraf.png|50px]] [[Farigiraf]] ||  Not available in the wild
+|-
+| 982 || [[File:Dudunsparce.png|50px]] [[Dudunsparce]] ||  Not available in the wild
+|-
+| 983 || [[File:Kingambit.png|50px]] [[Kingambit]] ||  Not available in the wild
+|-
+| 984 || [[File:Great-tusk.png|50px]] [[Great Tusk]] ||  Not available in the wild
+|-
+| 985 || [[File:Scream-tail.png|50px]] [[Scream Tail]] ||  Not available in the wild
+|-
+| 986 || [[File:Brute-bonnet.png|50px]] [[Brute Bonnet]] ||  Not available in the wild
+|-
+| 987 || [[File:Flutter-mane.png|50px]] [[Flutter Mane]] ||  Not available in the wild
+|-
+| 988 || [[File:Slither-wing.png|50px]] [[Slither Wing]] ||  Not available in the wild
+|-
+| 989 || [[File:Sandy-shocks.png|50px]] [[Sandy Shocks]] ||  Not available in the wild
+|-
+| 990 || [[File:Iron-treads.png|50px]] [[Iron Treads]] ||  Not available in the wild
+|-
+| 991 || [[File:Iron-bundle.png|50px]] [[Iron Bundle]] ||  Not available in the wild
+|-
+| 992 || [[File:Iron-hands.png|50px]] [[Iron Hands]] ||  Not available in the wild
+|-
+| 993 || [[File:Iron-jugulis.png|50px]] [[Iron Jugulis]] ||  Not available in the wild
+|-
+| 994 || [[File:Iron-moth.png|50px]] [[Iron Moth]] ||  Not available in the wild
+|-
+| 995 || [[File:Iron-thorns.png|50px]] [[Iron Thorns]] ||  Not available in the wild
+|-
+| 996 || [[File:Frigibax.png|50px]] [[Frigibax]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 997 || [[File:Arctibax.png|50px]] [[Arctibax]] ||  Not available in the wild
+|-
+| 998 || [[File:Baxcalibur.png|50px]] [[Baxcalibur]] ||  Not available in the wild
+|-
+| 999 || [[File:Gimmighoul.png|50px]] [[Gimmighoul]] ||  Not available in the wild
+|-
+| 1000 || [[File:Gholdengo.png|50px]] [[Gholdengo]] ||  Not available in the wild
+|-
+| 1001 || [[File:Wo-chien.png|50px]] [[Wo-Chien]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 1002 || [[File:Chien-pao.png|50px]] [[Chien-Pao]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 1003 || [[File:Ting-lu.png|50px]] [[Ting-Lu]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 1004 || [[File:Chi-yu.png|50px]] [[Chi-Yu]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 1005 || [[File:Roaring-moon.png|50px]] [[Roaring Moon]] ||  Not available in the wild
+|-
+| 1006 || [[File:Iron-valiant.png|50px]] [[Iron Valiant]] ||  Not available in the wild
+|-
+| 1007 || [[File:Koraidon.png|50px]] [[Koraidon]] ||  Not available in the wild
+|-
+| 1008 || [[File:Miraidon.png|50px]] [[Miraidon]] ||  Not available in the wild
+|-
+| 1009 || [[File:Walking-wake.png|50px]] [[Walking Wake]] ||  Not available in the wild
+|-
+| 1010 || [[File:Iron-leaves.png|50px]] [[Iron Leaves]] ||  Not available in the wild
+|-
+| 1011 || [[File:Dipplin.png|50px]] [[Dipplin]] ||  Route 12 (10%)
+|-
+| 1012 || [[File:Poltchageist.png|50px]] [[Poltchageist]] ||  Not available in the wild
+|-
+| 1013 || [[File:Sinistcha.png|50px]] [[Sinistcha]] ||  Not available in the wild
+|-
+| 1014 || [[File:Okidogi.png|50px]] [[Okidogi]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 1015 || [[File:Munkidori.png|50px]] [[Munkidori]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 1016 || [[File:Fezandipiti.png|50px]] [[Fezandipiti]] || [https://pokemon-unbreakable-ties.fandom.com/wiki/Gacha Gacha]
+Not available in the wild
+|-
+| 1017 || [[File:Ogerpon.png|50px]] [[Ogerpon]] ||  Not available in the wild
+|-
+| 1018 || [[File:Archaludon.png|50px]] [[Archaludon]] ||  Not available in the wild
+|-
+| 1019 || [[File:Hydrapple.png|50px]] [[Hydrapple]] ||  Not available in the wild
+|-
+| 1020 || [[File:Gouging-fire.png|50px]] [[Gouging Fire]] ||  Not available in the wild
+|-
+| 1021 || [[File:Raging-bolt.png|50px]] [[Raging Bolt]] ||  Not available in the wild
+|-
+| 1022 || [[File:Iron-boulder.png|50px]] [[Iron Boulder]] ||  Not available in the wild
+|-
+| 1023 || [[File:Iron-crown.png|50px]] [[Iron Crown]] ||  Not available in the wild
+|-
+| 1024 || [[File:Terapagos.png|50px]] [[Terapagos]] ||  Not available in the wild
+|-
+| 1025 || [[File:Pecharunt.png|50px]] [[Pecharunt]] ||  Not available in the wild
+|}
+
+[[Category:Locations]]
